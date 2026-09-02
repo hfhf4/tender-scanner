@@ -1,6 +1,12 @@
 name: Scan GeBIZ
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "scanner.py"
+      - "tests/**"
+      - ".github/workflows/scan.yml"
   schedule:
     - cron: "17 */3 * * *"
   workflow_dispatch:
