@@ -5,6 +5,7 @@ A small, zero-database tender monitor for potentially relevant Singapore legal a
 ## What it does
 
 - reads the official GeBIZ Professional Services opportunity and award RSS feeds;
+- scans Ren Ci Hospital's notices page and extracts structured deadlines from linked RFP PDFs;
 - runs every three hours through GitHub Actions;
 - retains its own JSON history because each GeBIZ RSS feed only exposes recent items;
 - applies transparent keyword scoring for legal-panel, corporate/commercial, regulatory, employment, data-protection and related work; and
@@ -14,9 +15,10 @@ The dashboard is expected at <https://hfhf4.github.io/tender-scanner/> once the 
 
 ## Run locally
 
-Python 3.11 or later is required. No third-party packages are used.
+Python 3.11 or later is required.
 
 ```bash
+python -m pip install -r requirements.txt
 python -m unittest discover -s tests -v
 python scanner.py
 python -m http.server --directory docs 8000
@@ -32,4 +34,6 @@ Edit `POSITIVE_RULES` and `NEGATIVE_RULES` in `scanner.py` to tune the relevance
 
 GeBIZ states that its RSS feeds list open tenders and quotations published in the preceding two days and award information from the preceding two days. The scanner therefore accumulates history prospectively; it is not a complete historical GeBIZ archive.
 
-Always verify the current status, closing time and tender documents on GeBIZ before relying on a record.
+Ren Ci does not publish RSS. Its source adapter reads the public tender accordion and downloads an RFP PDF only when a new listing or changed document URL is detected. Ancillary documents such as NDAs are retained as links but excluded from deadline extraction and scoring. A removed Ren Ci listing is archived rather than deleted.
+
+Always verify the current status, closing time and tender documents at the original source before relying on a record.
