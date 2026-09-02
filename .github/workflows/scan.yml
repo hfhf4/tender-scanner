@@ -13,6 +13,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: gebiz-scan
@@ -20,6 +22,9 @@ concurrency:
 
 jobs:
   scan:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -48,3 +53,17 @@ jobs:
             git commit -m "chore: refresh GeBIZ feed data"
             git push
           fi
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy site
+        id: deployment
+        uses: actions/deploy-pages@v4
