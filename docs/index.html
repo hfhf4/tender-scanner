@@ -84,7 +84,7 @@
     <div class="wrap">
       <p class="eyebrow">GeBIZ intelligence</p>
       <h1>Singapore Legal Tender Radar</h1>
-      <p class="subhead">A focused view of Professional Services notices, scored for corporate, commercial, regulatory, employment, privacy and general legal-panel relevance.</p>
+      <p class="subhead">A focused view of Singapore procurement notices, scored for corporate, commercial, regulatory, employment, privacy and general legal-panel relevance.</p>
       <p class="updated" id="updated">Loading latest scan…</p>
     </div>
   </header>
@@ -115,22 +115,26 @@
     <div class="results-meta"><span id="resultCount">Loading…</span><span>Scores are rule-based, not legal advice.</span></div>
     <section class="list" id="list" aria-live="polite"></section>
 
-    <aside class="notice">GeBIZ RSS contains notices published or awarded in the preceding two days. This site keeps its own history from the date the scanner began running; always verify deadlines and tender documents on GeBIZ.</aside>
+    <aside class="notice">GeBIZ RSS contains notices published or awarded in the preceding two days, while participating organisations may retain expired notices on their websites. This site keeps its own history and extracts deadlines where available; always verify the source document before acting.</aside>
   </main>
 
-  <footer class="wrap">Data source: <a href="https://www.gebiz.gov.sg/business-alerts.html" rel="noopener">official GeBIZ RSS feeds</a>. Updated automatically by GitHub Actions.</footer>
+  <footer class="wrap">Data sources: <a href="https://www.gebiz.gov.sg/business-alerts.html" rel="noopener">GeBIZ</a> and <a href="https://www.renci.org.sg/notices-and-tenders/" rel="noopener">Ren Ci Hospital</a>. Updated automatically by GitHub Actions.</footer>
 
   <script>
     const state = { kind: "opportunities", opportunities: [], awards: [], generatedAt: null };
     const $ = id => document.getElementById(id);
     const escapeHtml = value => String(value ?? "").replace(/[&<>'"]/g, char => ({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;",'"':"&quot;"}[char]));
     const safeUrl = value => {
-      try { const url = new URL(value); return url.protocol === "https:" && url.hostname.endsWith("gebiz.gov.sg") ? url.href : "https://www.gebiz.gov.sg/"; }
+      try {
+        const url = new URL(value);
+        const allowed = ["gebiz.gov.sg", "renci.org.sg"].some(domain => url.hostname === domain || url.hostname.endsWith(`.${domain}`));
+        return url.protocol === "https:" && allowed ? url.href : "https://www.gebiz.gov.sg/";
+      }
       catch { return "https://www.gebiz.gov.sg/"; }
     };
     const formatDate = value => value ? new Intl.DateTimeFormat("en-SG", { dateStyle: "medium", timeStyle: "short", timeZone: "Asia/Singapore" }).format(new Date(value)) : "Not stated";
     const daysFromNow = value => value ? (new Date(value) - new Date()) / 86400000 : null;
-    const isClosed = record => record.closing_at && daysFromNow(record.closing_at) < 0;
+    const isClosed = record => record.listed_on_source === false || (record.closing_at && daysFromNow(record.closing_at) < 0);
 
     function updateStats() {
       const open = state.opportunities.filter(record => !isClosed(record));
@@ -145,20 +149,26 @@
     function card(record) {
       const reasons = (record.score_reasons || []).join(", ") || "No specific legal-practice signal";
       const closed = record.kind === "opportunity" && isClosed(record);
+      const published = record.published_at ? `<span>Published ${escapeHtml(formatDate(record.published_at))}</span>` : "";
+      const deadline = record.closing_at
+        ? `<span class="${closed ? "closed" : ""}">${closed ? "Closed" : "Closes"} ${escapeHtml(formatDate(record.closing_at))}</span>`
+        : `<span>Deadline not extracted</span>`;
       const detail = record.kind === "opportunity"
-        ? `<span>${escapeHtml(record.reference || "Reference not stated")}</span><span>Published ${escapeHtml(formatDate(record.published_at))}</span><span class="${closed ? "closed" : ""}">${closed ? "Closed" : "Closes"} ${escapeHtml(formatDate(record.closing_at))}</span>`
+        ? `<span>${escapeHtml(record.source || "GeBIZ")}</span><span>${escapeHtml(record.reference || "Reference not stated")}</span>${published}${deadline}`
         : `<span>Awarded ${escapeHtml(formatDate(record.awarded_at))}</span>`;
       const summary = record.award_summary ? `<p class="summary">${escapeHtml(record.award_summary)}</p>` : "";
+      const targetUrl = record.document_url || record.url;
+      const linkLabel = record.document_url ? "View notice PDF →" : "Open source →";
       return `<article class="card">
         <div class="score ${escapeHtml(record.relevance)}" title="Rule-based relevance score">${escapeHtml(record.relevance_score)}</div>
         <div>
-          <p class="agency">${escapeHtml(record.agency || "GeBIZ award result")}</p>
+          <p class="agency">${escapeHtml(record.agency || record.source || "GeBIZ award result")}</p>
           <h2>${escapeHtml(record.title)}</h2>
           <div class="details">${detail}</div>
           ${summary}
           <div class="reason">Signals: ${escapeHtml(reasons)}</div>
         </div>
-        <a class="open" href="${safeUrl(record.url)}" target="_blank" rel="noopener">Open in GeBIZ →</a>
+        <a class="open" href="${safeUrl(targetUrl)}" target="_blank" rel="noopener">${linkLabel}</a>
       </article>`;
     }
 
@@ -166,7 +176,7 @@
       const query = $("search").value.trim().toLowerCase();
       const level = $("relevance").value;
       const records = state[state.kind].filter(record => {
-        const haystack = [record.title, record.agency, record.reference, record.award_summary].filter(Boolean).join(" ").toLowerCase();
+        const haystack = [record.title, record.agency, record.source, record.reference, record.award_summary].filter(Boolean).join(" ").toLowerCase();
         if (query && !haystack.includes(query)) return false;
         if (level !== "all" && record.relevance !== level) return false;
         if (state.kind === "opportunities" && $("hideClosed").checked && isClosed(record)) return false;
