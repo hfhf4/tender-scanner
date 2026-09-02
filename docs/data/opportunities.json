@@ -5,7 +5,7 @@
     "https://www.renci.org.sg/notices-and-tenders/"
   ],
   "feed_published": "Wed, 2 Sep 2026 12:00:21 +0800",
-  "generated_at": "2026-09-02T04:26:00Z",
+  "generated_at": "2026-09-02T04:33:16Z",
   "record_count": 22,
   "records": [
     {
@@ -21,7 +21,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:26:00Z",
+      "last_seen_at": "2026-09-02T04:33:16Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -38,7 +38,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:26:00Z",
+      "last_seen_at": "2026-09-02T04:33:16Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -55,7 +55,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:26:00Z",
+      "last_seen_at": "2026-09-02T04:33:16Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -74,7 +74,7 @@
         "supply or maintenance"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:26:00Z",
+      "last_seen_at": "2026-09-02T04:33:16Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -93,7 +93,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:26:00Z",
+      "last_seen_at": "2026-09-02T04:33:16Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -112,7 +112,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:26:00Z",
+      "last_seen_at": "2026-09-02T04:33:16Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -129,7 +129,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:26:00Z",
+      "last_seen_at": "2026-09-02T04:33:16Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -148,7 +148,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:26:00Z",
+      "last_seen_at": "2026-09-02T04:33:16Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -167,7 +167,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:26:00Z",
+      "last_seen_at": "2026-09-02T04:33:16Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -186,7 +186,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:26:00Z",
+      "last_seen_at": "2026-09-02T04:33:16Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -205,7 +205,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:26:00Z",
+      "last_seen_at": "2026-09-02T04:33:16Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -224,7 +224,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:26:00Z",
+      "last_seen_at": "2026-09-02T04:33:16Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -252,7 +252,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T04:26:00Z"
+      "last_seen_at": "2026-09-02T04:33:16Z"
     },
     {
       "id": "renci:RC26MM06",
@@ -280,7 +280,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T04:26:00Z"
+      "last_seen_at": "2026-09-02T04:33:16Z"
     },
     {
       "id": "renci:RC26MM04",
@@ -306,7 +306,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T04:26:00Z"
+      "last_seen_at": "2026-09-02T04:33:16Z"
     },
     {
       "id": "renci:RC26MM02",
@@ -335,7 +335,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T04:26:00Z"
+      "last_seen_at": "2026-09-02T04:33:16Z"
     },
     {
       "id": "renci:RC26MM03",
@@ -361,7 +361,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T04:26:00Z"
+      "last_seen_at": "2026-09-02T04:33:16Z"
     },
     {
       "id": "renci:RC26MM01",
@@ -390,7 +390,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T04:26:00Z"
+      "last_seen_at": "2026-09-02T04:33:16Z"
     },
     {
       "id": "renci:RC25MM06",
@@ -423,7 +423,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T04:26:00Z"
+      "last_seen_at": "2026-09-02T04:33:16Z"
     },
     {
       "id": "renci:RC25MM05",
@@ -453,7 +453,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T04:26:00Z"
+      "last_seen_at": "2026-09-02T04:33:16Z"
     },
     {
       "id": "renci:RC25MM04",
@@ -479,7 +479,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T04:26:00Z"
+      "last_seen_at": "2026-09-02T04:33:16Z"
     },
     {
       "id": "renci:RC25MM03",
@@ -508,7 +508,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T04:26:00Z"
+      "last_seen_at": "2026-09-02T04:33:16Z"
     }
   ]
 }
