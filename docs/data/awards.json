@@ -2,7 +2,7 @@
   "source": "GeBIZ Professional Services RSS",
   "source_url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml",
   "feed_published": "Wed, 2 Sep 2026 00:36:07 +0800",
-  "generated_at": "2026-09-02T03:45:21Z",
+  "generated_at": "2026-09-02T03:52:27Z",
   "record_count": 10,
   "records": [
     {
@@ -18,7 +18,7 @@
         "medical service"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:45:21Z"
+      "last_seen_at": "2026-09-02T03:52:27Z"
     },
     {
       "id": "SLA000ETT26000005",
@@ -31,7 +31,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:45:21Z"
+      "last_seen_at": "2026-09-02T03:52:27Z"
     },
     {
       "id": "MAS000ETQ26000016",
@@ -44,7 +44,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:45:21Z"
+      "last_seen_at": "2026-09-02T03:52:27Z"
     },
     {
       "id": "NEA000ETT26000061",
@@ -60,7 +60,7 @@
         "law firm"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:45:21Z"
+      "last_seen_at": "2026-09-02T03:52:27Z"
     },
     {
       "id": "LAWHQ0ETT26000003",
@@ -73,7 +73,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:45:21Z"
+      "last_seen_at": "2026-09-02T03:52:27Z"
     },
     {
       "id": "NEA000ETT26000037",
@@ -86,7 +86,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:45:21Z"
+      "last_seen_at": "2026-09-02T03:52:27Z"
     },
     {
       "id": "MOE000ETT26000012",
@@ -101,7 +101,7 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:45:21Z"
+      "last_seen_at": "2026-09-02T03:52:27Z"
     },
     {
       "id": "MOE000ETT26000013",
@@ -114,7 +114,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:45:21Z"
+      "last_seen_at": "2026-09-02T03:52:27Z"
     },
     {
       "id": "HDB000ETT26000086",
@@ -129,7 +129,7 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:45:21Z"
+      "last_seen_at": "2026-09-02T03:52:27Z"
     },
     {
       "id": "CAA000EDC26000027",
@@ -142,7 +142,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:45:21Z"
+      "last_seen_at": "2026-09-02T03:52:27Z"
     }
   ]
 }
