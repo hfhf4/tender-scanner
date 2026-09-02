@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - "scanner.py"
+      - "requirements.txt"
       - "tests/**"
       - ".github/workflows/scan.yml"
   schedule:
@@ -39,10 +40,13 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
       - name: Run tests
         run: python -m unittest discover -s tests -v
 
-      - name: Fetch and score GeBIZ feeds
+      - name: Fetch and score tender sources
         run: python scanner.py
 
       - name: Commit refreshed data
