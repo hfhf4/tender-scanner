@@ -1,8 +1,10 @@
 {
-  "source": "GeBIZ Professional Services RSS",
-  "source_url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml",
+  "source": "Singapore Tender Radar",
+  "source_urls": [
+    "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
+  ],
   "feed_published": "Wed, 2 Sep 2026 00:36:07 +0800",
-  "generated_at": "2026-09-02T03:52:27Z",
+  "generated_at": "2026-09-02T04:26:00Z",
   "record_count": 10,
   "records": [
     {
@@ -18,7 +20,9 @@
         "medical service"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:52:27Z"
+      "last_seen_at": "2026-09-02T04:26:00Z",
+      "source": "GeBIZ",
+      "source_key": "gebiz"
     },
     {
       "id": "SLA000ETT26000005",
@@ -31,7 +35,9 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:52:27Z"
+      "last_seen_at": "2026-09-02T04:26:00Z",
+      "source": "GeBIZ",
+      "source_key": "gebiz"
     },
     {
       "id": "MAS000ETQ26000016",
@@ -44,7 +50,9 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:52:27Z"
+      "last_seen_at": "2026-09-02T04:26:00Z",
+      "source": "GeBIZ",
+      "source_key": "gebiz"
     },
     {
       "id": "NEA000ETT26000061",
@@ -60,7 +68,9 @@
         "law firm"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:52:27Z"
+      "last_seen_at": "2026-09-02T04:26:00Z",
+      "source": "GeBIZ",
+      "source_key": "gebiz"
     },
     {
       "id": "LAWHQ0ETT26000003",
@@ -73,7 +83,9 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:52:27Z"
+      "last_seen_at": "2026-09-02T04:26:00Z",
+      "source": "GeBIZ",
+      "source_key": "gebiz"
     },
     {
       "id": "NEA000ETT26000037",
@@ -86,7 +98,9 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:52:27Z"
+      "last_seen_at": "2026-09-02T04:26:00Z",
+      "source": "GeBIZ",
+      "source_key": "gebiz"
     },
     {
       "id": "MOE000ETT26000012",
@@ -101,7 +115,9 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:52:27Z"
+      "last_seen_at": "2026-09-02T04:26:00Z",
+      "source": "GeBIZ",
+      "source_key": "gebiz"
     },
     {
       "id": "MOE000ETT26000013",
@@ -114,7 +130,9 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:52:27Z"
+      "last_seen_at": "2026-09-02T04:26:00Z",
+      "source": "GeBIZ",
+      "source_key": "gebiz"
     },
     {
       "id": "HDB000ETT26000086",
@@ -129,7 +147,9 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:52:27Z"
+      "last_seen_at": "2026-09-02T04:26:00Z",
+      "source": "GeBIZ",
+      "source_key": "gebiz"
     },
     {
       "id": "CAA000EDC26000027",
@@ -142,7 +162,9 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:52:27Z"
+      "last_seen_at": "2026-09-02T04:26:00Z",
+      "source": "GeBIZ",
+      "source_key": "gebiz"
     }
   ]
 }

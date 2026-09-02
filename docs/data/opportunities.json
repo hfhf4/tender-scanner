@@ -1,9 +1,12 @@
 {
-  "source": "GeBIZ Professional Services RSS",
-  "source_url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_BO_FEED.xml",
-  "feed_published": "Wed, 2 Sep 2026 11:00:21 +0800",
-  "generated_at": "2026-09-02T03:52:27Z",
-  "record_count": 12,
+  "source": "Singapore Tender Radar",
+  "source_urls": [
+    "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_BO_FEED.xml",
+    "https://www.renci.org.sg/notices-and-tenders/"
+  ],
+  "feed_published": "Wed, 2 Sep 2026 12:00:21 +0800",
+  "generated_at": "2026-09-02T04:26:00Z",
+  "record_count": 22,
   "records": [
     {
       "id": "HLTHQ0ETT26000034",
@@ -18,7 +21,9 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:52:27Z"
+      "last_seen_at": "2026-09-02T04:26:00Z",
+      "source": "GeBIZ",
+      "source_key": "gebiz"
     },
     {
       "id": "LTA000ETT26000091",
@@ -33,7 +38,9 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:52:27Z"
+      "last_seen_at": "2026-09-02T04:26:00Z",
+      "source": "GeBIZ",
+      "source_key": "gebiz"
     },
     {
       "id": "PAS000ETT26000080",
@@ -48,7 +55,9 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:52:27Z"
+      "last_seen_at": "2026-09-02T04:26:00Z",
+      "source": "GeBIZ",
+      "source_key": "gebiz"
     },
     {
       "id": "MOESCHETQ26003616",
@@ -65,7 +74,9 @@
         "supply or maintenance"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:52:27Z"
+      "last_seen_at": "2026-09-02T04:26:00Z",
+      "source": "GeBIZ",
+      "source_key": "gebiz"
     },
     {
       "id": "NPO000ETQ26000111",
@@ -82,7 +93,9 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:52:27Z"
+      "last_seen_at": "2026-09-02T04:26:00Z",
+      "source": "GeBIZ",
+      "source_key": "gebiz"
     },
     {
       "id": "NPO000ETQ26000110",
@@ -99,7 +112,9 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:52:27Z"
+      "last_seen_at": "2026-09-02T04:26:00Z",
+      "source": "GeBIZ",
+      "source_key": "gebiz"
     },
     {
       "id": "MOESCHETQ26003430",
@@ -114,7 +129,9 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:52:27Z"
+      "last_seen_at": "2026-09-02T04:26:00Z",
+      "source": "GeBIZ",
+      "source_key": "gebiz"
     },
     {
       "id": "MOESCHETQ26003452",
@@ -131,7 +148,9 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:52:27Z"
+      "last_seen_at": "2026-09-02T04:26:00Z",
+      "source": "GeBIZ",
+      "source_key": "gebiz"
     },
     {
       "id": "NPO000ETQ26000106",
@@ -148,7 +167,9 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:52:27Z"
+      "last_seen_at": "2026-09-02T04:26:00Z",
+      "source": "GeBIZ",
+      "source_key": "gebiz"
     },
     {
       "id": "NPO000ETQ26000107",
@@ -165,7 +186,9 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:52:27Z"
+      "last_seen_at": "2026-09-02T04:26:00Z",
+      "source": "GeBIZ",
+      "source_key": "gebiz"
     },
     {
       "id": "MOE000ETQ26000210",
@@ -182,7 +205,9 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:52:27Z"
+      "last_seen_at": "2026-09-02T04:26:00Z",
+      "source": "GeBIZ",
+      "source_key": "gebiz"
     },
     {
       "id": "MOESCHETQ26003460",
@@ -199,7 +224,291 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T03:52:27Z"
+      "last_seen_at": "2026-09-02T04:26:00Z",
+      "source": "GeBIZ",
+      "source_key": "gebiz"
+    },
+    {
+      "id": "renci:RC26MM08",
+      "kind": "opportunity",
+      "source": "Ren Ci Hospital",
+      "source_key": "renci",
+      "title": "PROVISION OF FOOD SERVICES FOR REN CI HOSPITAL",
+      "url": "https://www.renci.org.sg/notices-and-tenders/",
+      "document_url": "https://www.renci.org.sg/wp-content/uploads/2026/08/RFP-Notice-RC26MM08.pdf",
+      "attachments": [],
+      "reference": "RC26MM08",
+      "agency": "Ren Ci Hospital",
+      "published_at": null,
+      "closing_at": "2026-08-11T07:00:00Z",
+      "deadline_precision": "datetime",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "listing_fingerprint": "5cf1b9c2236a7447ea795a807ed3c67ba47f0d86c25ecb79806836b63fbe4ee4",
+      "document_sha256": "fe5ca65fb75c8ba8024f0c8256b9cd4a7a0ef1a857b775f418475d91bf12fd4b",
+      "document_etag": "\"19abd-658200765565c\"",
+      "document_last_modified": "Mon, 03 Aug 2026 08:07:26 GMT",
+      "listed_on_source": true,
+      "scan_warning": null,
+      "first_seen_at": "2026-09-02T04:23:29Z",
+      "last_seen_at": "2026-09-02T04:26:00Z"
+    },
+    {
+      "id": "renci:RC26MM06",
+      "kind": "opportunity",
+      "source": "Ren Ci Hospital",
+      "source_key": "renci",
+      "title": "REPLACEMENT OF AUDIO-VISUAL EQUIPMENT AT REN CI COMMUNITY HOSPITAL MULTI-PURPOSE HALL",
+      "url": "https://www.renci.org.sg/notices-and-tenders/",
+      "document_url": "https://www.renci.org.sg/wp-content/uploads/2026/06/RFP-Notice-RC26MM06.pdf",
+      "attachments": [],
+      "reference": "RC26MM06",
+      "agency": "Ren Ci Hospital",
+      "published_at": null,
+      "closing_at": "2026-06-12T04:00:00Z",
+      "deadline_precision": "datetime",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "technical consultancy"
+      ],
+      "listing_fingerprint": "d42495c3411facd50ca448b6294a28de28dc5ffbf9bd59b6aeb6e7752bfabceb",
+      "document_sha256": "606f1c7014972f9a9bde51710e3ec068d996d99448a635bdbd6cddfa6ceec4a6",
+      "document_etag": "\"1a719-653791fc4444c\"",
+      "document_last_modified": "Fri, 05 Jun 2026 03:19:09 GMT",
+      "listed_on_source": true,
+      "scan_warning": null,
+      "first_seen_at": "2026-09-02T04:23:29Z",
+      "last_seen_at": "2026-09-02T04:26:00Z"
+    },
+    {
+      "id": "renci:RC26MM04",
+      "kind": "opportunity",
+      "source": "Ren Ci Hospital",
+      "source_key": "renci",
+      "title": "PROVISION OF INTERNAL AUDIT/ CONTROLS SELF-ASSESSMENT PROFESSIONAL SERVICES FOR REN CI HOSPITAL",
+      "url": "https://www.renci.org.sg/notices-and-tenders/",
+      "document_url": "https://www.renci.org.sg/wp-content/uploads/2026/04/RFP-Notice-RC26MM04.pdf",
+      "attachments": [],
+      "reference": "RC26MM04",
+      "agency": "Ren Ci Hospital",
+      "published_at": null,
+      "closing_at": "2026-04-14T04:00:00Z",
+      "deadline_precision": "datetime",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "listing_fingerprint": "b775f86e6ecd8c1584775438126d211e1696ed1d64bde618faf372b1eee46326",
+      "document_sha256": "22b26fdea909753e979ae6d164758e370fff95e0f3dc2b9e2d853fc6c27185f8",
+      "document_etag": "\"204c4-64ed964dfde38\"",
+      "document_last_modified": "Tue, 07 Apr 2026 07:04:27 GMT",
+      "listed_on_source": true,
+      "scan_warning": null,
+      "first_seen_at": "2026-09-02T04:23:29Z",
+      "last_seen_at": "2026-09-02T04:26:00Z"
+    },
+    {
+      "id": "renci:RC26MM02",
+      "kind": "opportunity",
+      "source": "Ren Ci Hospital",
+      "source_key": "renci",
+      "title": "PROVISION OF AIR-CONDITIONING AND MECHANICAL VENTILATION (ACMV) PREVENTIVE MAINTENANCE FOR REN CI HOSPITAL",
+      "url": "https://www.renci.org.sg/notices-and-tenders/",
+      "document_url": "https://www.renci.org.sg/wp-content/uploads/2026/04/RFP-NOTICE-RC26MM02.pdf",
+      "attachments": [],
+      "reference": "RC26MM02",
+      "agency": "Ren Ci Hospital",
+      "published_at": null,
+      "closing_at": "2026-04-10T04:00:00Z",
+      "deadline_precision": "datetime",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "technical consultancy",
+        "supply or maintenance"
+      ],
+      "listing_fingerprint": "fbbcf51d37ac2ea491d04da0025f786e2687663822a260161fceaaa4cb65779a",
+      "document_sha256": "455d2755dcceb7f466090972bfae97b8744e6f0b2924645abba51256eaba3570",
+      "document_etag": "\"216cf-64e719e3e4056\"",
+      "document_last_modified": "Thu, 02 Apr 2026 03:15:53 GMT",
+      "listed_on_source": true,
+      "scan_warning": null,
+      "first_seen_at": "2026-09-02T04:23:29Z",
+      "last_seen_at": "2026-09-02T04:26:00Z"
+    },
+    {
+      "id": "renci:RC26MM03",
+      "kind": "opportunity",
+      "source": "Ren Ci Hospital",
+      "source_key": "renci",
+      "title": "PROVISION OF LINEN LEASING AND LAUNDRY SERVICES FOR REN CI HOSPITAL",
+      "url": "https://www.renci.org.sg/notices-and-tenders/",
+      "document_url": "https://www.renci.org.sg/wp-content/uploads/2026/02/RFP-NOTICE-RC26MM03.pdf",
+      "attachments": [],
+      "reference": "RC26MM03",
+      "agency": "Ren Ci Hospital",
+      "published_at": null,
+      "closing_at": "2026-03-04T04:00:00Z",
+      "deadline_precision": "datetime",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "listing_fingerprint": "ebeee7ef6d9985a57b64f071bcf7b9e569fc28f737971a6b108cb97e7f9ca419",
+      "document_sha256": "370f3c2015b8449fb9c13b5301f460a9cc00985a7907f8fc62284da1674625c0",
+      "document_etag": "\"2242f-64b9d6768525b\"",
+      "document_last_modified": "Wed, 25 Feb 2026 03:14:37 GMT",
+      "listed_on_source": true,
+      "scan_warning": null,
+      "first_seen_at": "2026-09-02T04:23:29Z",
+      "last_seen_at": "2026-09-02T04:26:00Z"
+    },
+    {
+      "id": "renci:RC26MM01",
+      "kind": "opportunity",
+      "source": "Ren Ci Hospital",
+      "source_key": "renci",
+      "title": "PROVISION OF CYCLICAL MAINTENANCE WORKS FOR REN CI @ ANG MO KIO",
+      "url": "https://www.renci.org.sg/notices-and-tenders/",
+      "document_url": "https://www.renci.org.sg/wp-content/uploads/2026/01/RFP-Notice-RC26MM01-R1.pdf",
+      "attachments": [],
+      "reference": "RC26MM01",
+      "agency": "Ren Ci Hospital",
+      "published_at": null,
+      "closing_at": "2026-01-14T04:00:00Z",
+      "deadline_precision": "datetime",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "technical consultancy",
+        "supply or maintenance"
+      ],
+      "listing_fingerprint": "7bd9c948a8e43f5cb5f720097cf4bc63e19f93cf10c1adbc6d6f2233776bef85",
+      "document_sha256": "1ac16ddfbb9d130ec33b38764a2f6d59cb0639b430d8e39d53e35fd4e22934cf",
+      "document_etag": "\"17eb0-6482c174dd4b5\"",
+      "document_last_modified": "Mon, 12 Jan 2026 07:47:47 GMT",
+      "listed_on_source": true,
+      "scan_warning": null,
+      "first_seen_at": "2026-09-02T04:23:29Z",
+      "last_seen_at": "2026-09-02T04:26:00Z"
+    },
+    {
+      "id": "renci:RC25MM06",
+      "kind": "opportunity",
+      "source": "Ren Ci Hospital",
+      "source_key": "renci",
+      "title": "PROVISION OF CLIENT MANAGEMENT SYSTEM FOR REN CI SENIOR CARE CENTRES",
+      "url": "https://www.renci.org.sg/notices-and-tenders/",
+      "document_url": "https://www.renci.org.sg/wp-content/uploads/2025/10/RFP-Notice-RC25MM06.pdf",
+      "attachments": [
+        "https://www.renci.org.sg/wp-content/uploads/2025/10/NDA-for-RC25MM06.pdf"
+      ],
+      "reference": "RC25MM06",
+      "agency": "Ren Ci Hospital",
+      "published_at": null,
+      "closing_at": "2025-10-28T04:00:00Z",
+      "deadline_precision": "datetime",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "data protection",
+        "technology services",
+        "supply or maintenance",
+        "medical service"
+      ],
+      "listing_fingerprint": "9b1910479044dd8b6c1be81e6b6dceafef5d3e80a0c5ae2b6eac84ee16deca75",
+      "document_sha256": "4035763513b39a48ca30284db6e714753c278c22455fe1a0f816d96c87328688",
+      "document_etag": "\"2195c-641a65dc3ce45\"",
+      "document_last_modified": "Tue, 21 Oct 2025 07:44:13 GMT",
+      "listed_on_source": true,
+      "scan_warning": null,
+      "first_seen_at": "2026-09-02T04:23:29Z",
+      "last_seen_at": "2026-09-02T04:26:00Z"
+    },
+    {
+      "id": "renci:RC25MM05",
+      "kind": "opportunity",
+      "source": "Ren Ci Hospital",
+      "source_key": "renci",
+      "title": "PROVISION AND INSTALLATION OF ABSCONDMENT WARNING SYSTEM FOR REN CI @ANG MO KIO & REN CI @ BUKIT BATOK ST 52",
+      "url": "https://www.renci.org.sg/notices-and-tenders/",
+      "document_url": "https://www.renci.org.sg/wp-content/uploads/2025/07/RFP-Notice-RC25MM05.pdf",
+      "attachments": [],
+      "reference": "RC25MM05",
+      "agency": "Ren Ci Hospital",
+      "published_at": null,
+      "closing_at": "2025-07-14T04:00:00Z",
+      "deadline_precision": "datetime",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "data protection",
+        "technology services",
+        "supply or maintenance"
+      ],
+      "listing_fingerprint": "f72ce3b21d7a4a692a04ce319ac967a4e774c7db46d2506fb34056249c312d39",
+      "document_sha256": "3a546238af7ef129eb069266b8884ee70b8014ae34f317d17bd9dbb8fb282a4b",
+      "document_etag": "\"f3b5-6394e7001feef\"",
+      "document_last_modified": "Mon, 07 Jul 2025 03:28:29 GMT",
+      "listed_on_source": true,
+      "scan_warning": null,
+      "first_seen_at": "2026-09-02T04:23:29Z",
+      "last_seen_at": "2026-09-02T04:26:00Z"
+    },
+    {
+      "id": "renci:RC25MM04",
+      "kind": "opportunity",
+      "source": "Ren Ci Hospital",
+      "source_key": "renci",
+      "title": "PROVISION OF LAUNDRY EQUIPMENT SETUP FOR REN CI @ ANG MO KIO",
+      "url": "https://www.renci.org.sg/notices-and-tenders/",
+      "document_url": "https://www.renci.org.sg/wp-content/uploads/2025/05/RFP-Notice-RC25MM04.pdf",
+      "attachments": [],
+      "reference": "RC25MM04",
+      "agency": "Ren Ci Hospital",
+      "published_at": null,
+      "closing_at": "2025-05-21T04:00:00Z",
+      "deadline_precision": "datetime",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "listing_fingerprint": "33dae16391a04801151c185f70680c8b29c885d7eefd4f1f708685037bd0356a",
+      "document_sha256": "22e77098c26b3e6e5efaaf7f50a996ecf6d05b7874c63a1a3d63df545dd8fd85",
+      "document_etag": "\"f737-6353877d1348b\"",
+      "document_last_modified": "Fri, 16 May 2025 03:35:04 GMT",
+      "listed_on_source": true,
+      "scan_warning": null,
+      "first_seen_at": "2026-09-02T04:23:29Z",
+      "last_seen_at": "2026-09-02T04:26:00Z"
+    },
+    {
+      "id": "renci:RC25MM03",
+      "kind": "opportunity",
+      "source": "Ren Ci Hospital",
+      "source_key": "renci",
+      "title": "PROVISION AND INSTALLATION OF SOLAR PHOTOVOLTAIC SYSTEM AT REN CI @ ANG MO KIO",
+      "url": "https://www.renci.org.sg/notices-and-tenders/",
+      "document_url": "https://www.renci.org.sg/wp-content/uploads/2025/05/RFP-Notice-RC25MM03-1.pdf",
+      "attachments": [],
+      "reference": "RC25MM03",
+      "agency": "Ren Ci Hospital",
+      "published_at": null,
+      "closing_at": "2025-05-13T04:00:00Z",
+      "deadline_precision": "datetime",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "technical consultancy",
+        "supply or maintenance"
+      ],
+      "listing_fingerprint": "7581c288fb5c84f276144db0b173f230794d1adedc8735aa22477b86d4602d8c",
+      "document_sha256": "c857d9807f411297e3f9b57e52ec8af7598bd148079d5376abfb26b57f817496",
+      "document_etag": "\"f3ea-63499c8c652f9\"",
+      "document_last_modified": "Thu, 08 May 2025 06:16:03 GMT",
+      "listed_on_source": true,
+      "scan_warning": null,
+      "first_seen_at": "2026-09-02T04:23:29Z",
+      "last_seen_at": "2026-09-02T04:26:00Z"
     }
   ]
 }
