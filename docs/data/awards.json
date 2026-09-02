@@ -3,9 +3,9 @@
   "source_urls": [
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
   ],
-  "feed_published": "Wed, 2 Sep 2026 16:36:24 +0800",
-  "generated_at": "2026-09-02T11:15:05Z",
-  "record_count": 12,
+  "feed_published": "Thu, 3 Sep 2026 00:36:13 +0800",
+  "generated_at": "2026-09-02T16:43:52Z",
+  "record_count": 13,
   "records": [
     {
       "id": "NEA000ETQ26000057",
@@ -20,7 +20,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-02T11:15:05Z"
+      "last_seen_at": "2026-09-02T16:43:52Z"
     },
     {
       "id": "JTC000ETT26000030",
@@ -37,7 +37,22 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-02T11:15:05Z"
+      "last_seen_at": "2026-09-02T16:43:52Z"
+    },
+    {
+      "id": "NHB000ETQ26000007",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "INVITATION TO QUOTE FOR ENGLISH-TAMIL VETTING SERVICES (NHB000ETQ26000007)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=NHB000ETQ26000007&status=AWARDED&type=TQ&OPPORTUNITY_ID=1000000000000544452&origin=rss",
+      "award_summary": "RISING STARS TRANSLATION AND SERVICES - SGD 90000",
+      "awarded_at": "2026-09-01T16:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-02T16:43:52Z",
+      "last_seen_at": "2026-09-02T16:43:52Z"
     },
     {
       "id": "STB000ETQ26000022",
@@ -52,7 +67,7 @@
         "medical service"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T11:15:05Z",
+      "last_seen_at": "2026-09-02T16:43:52Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -67,7 +82,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T11:15:05Z",
+      "last_seen_at": "2026-09-02T16:43:52Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -115,7 +130,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T11:15:05Z",
+      "last_seen_at": "2026-09-02T16:43:52Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -147,7 +162,7 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T11:15:05Z",
+      "last_seen_at": "2026-09-02T16:43:52Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -162,7 +177,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T11:15:05Z",
+      "last_seen_at": "2026-09-02T16:43:52Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -179,7 +194,7 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T11:15:05Z",
+      "last_seen_at": "2026-09-02T16:43:52Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
