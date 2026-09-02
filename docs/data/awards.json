@@ -1,0 +1,148 @@
+{
+  "source": "GeBIZ Professional Services RSS",
+  "source_url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml",
+  "feed_published": "Wed, 2 Sep 2026 00:36:07 +0800",
+  "generated_at": "2026-09-02T03:36:32Z",
+  "record_count": 10,
+  "records": [
+    {
+      "id": "STB000ETQ26000022",
+      "kind": "award",
+      "title": "ITQ for the Provision of Medical Services for the Singapore Suite 2026 during the FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026, to support the safe operation of the Government's corporate hospitality suite. (STB000ETQ26000022)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=STB000ETQ26000022&status=AWARDED&type=TQ&OPPORTUNITY_ID=1000000000000544161&origin=rss",
+      "award_summary": "FULLERTON HEALTHCARE GROUP PTE. LIMITED - SGD 2520",
+      "awarded_at": "2026-08-31T16:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "medical service"
+      ],
+      "first_seen_at": "2026-09-02T03:36:32Z",
+      "last_seen_at": "2026-09-02T03:36:32Z"
+    },
+    {
+      "id": "SLA000ETT26000005",
+      "kind": "award",
+      "title": "Invitation to Tender for the Provision of Consultancy Services to conduct a Job Evaluation Exercise, Review of Job Scheme and Compensation Framework (SLA000ETT26000005)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=SLA000ETT26000005&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000544090&origin=rss",
+      "award_summary": "MERCER (SINGAPORE) PTE. LTD. - SGD 144000",
+      "awarded_at": "2026-08-31T16:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-02T03:36:32Z",
+      "last_seen_at": "2026-09-02T03:36:32Z"
+    },
+    {
+      "id": "MAS000ETQ26000016",
+      "kind": "award",
+      "title": "INVITATION TO QUOTE FOR EXTERNAL ASSURANCE FOR MAS CORPORATE SUSTAINABILITY AND GAP ANALYSIS BASED ON ISSB-CSD/Q/26/CORPSR/MC/014-MAS-REQ-2026-000942-CSD(PBS)-MC (MAS000ETQ26000016)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=MAS000ETQ26000016&status=AWARDED&type=TQ&OPPORTUNITY_ID=1000000000000543919&origin=rss",
+      "award_summary": "KPMG SERVICES PTE. LTD. - SGD 50000",
+      "awarded_at": "2026-08-30T16:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-02T03:36:32Z",
+      "last_seen_at": "2026-09-02T03:36:32Z"
+    },
+    {
+      "id": "NEA000ETT26000061",
+      "kind": "award",
+      "title": "Appointment of a Panel of Law Firms (NEA000ETT26000061)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=NEA000ETT26000061&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000544025&origin=rss",
+      "award_summary": "DENTONS RODYK & DAVIDSON LLP - SGD 3960, LEE & LEE LLP - SGD 3600, RAJAH & TANN SINGAPORE LLP - SGD 58560, ALLEN & GLEDHILL LLP - SGD 6100, DREW & NAPIER LLC - SGD 6240, ADSAN LAW LLC - SGD 31382",
+      "awarded_at": "2026-08-30T16:00:00Z",
+      "relevance_score": 100,
+      "relevance": "high",
+      "score_reasons": [
+        "panel of law firms",
+        "law firm"
+      ],
+      "first_seen_at": "2026-09-02T03:36:32Z",
+      "last_seen_at": "2026-09-02T03:36:32Z"
+    },
+    {
+      "id": "LAWHQ0ETT26000003",
+      "kind": "award",
+      "title": "Invitation to Tender (ITT) for Provision of Database Screening Subscription Services for Anti-Money Laundering/Countering the Financing of Terrorism Probity Checks (LAWHQ0ETT26000003)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=LAWHQ0ETT26000003&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000544164&origin=rss",
+      "award_summary": "null - SGD 0, INGENIQUE SOLUTIONS PTE. LTD. - SGD 143690",
+      "awarded_at": "2026-08-30T16:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-02T03:36:32Z",
+      "last_seen_at": "2026-09-02T03:36:32Z"
+    },
+    {
+      "id": "NEA000ETT26000037",
+      "kind": "award",
+      "title": "Tender for Provision of Outsourced Audit Services, The Operational Excellence and Resilience Audit (OpsERA) (NEA000ETT26000037)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=NEA000ETT26000037&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000543557&origin=rss",
+      "award_summary": "KPMG SERVICES PTE. LTD. - SGD 280000",
+      "awarded_at": "2026-08-30T16:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-02T03:36:32Z",
+      "last_seen_at": "2026-09-02T03:36:32Z"
+    },
+    {
+      "id": "MOE000ETT26000012",
+      "kind": "award",
+      "title": "MULTI-DISCIPLINARY TEAM OF ARCHITECTURAL, CIVIL & STRUCTURAL ENGINEERING, MECHANICAL & ELECTRICAL ENGINEERING AND QUANTITY SURVEYING CONSULTANCY SERVICES FOR PROPOSED DEVELOPMENT OF AN EDUCATIONAL INSTITUTION IN THE NORTH-WESTERN PART OF SINGAPORE (2ND STAGE OF 2-STAGE QFM TENDER) (MOE000ETT26000012)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=MOE000ETT26000012&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000543962&origin=rss",
+      "award_summary": "ID ARCHITECTS PTE. LTD. - SGD 6630650",
+      "awarded_at": "2026-08-27T16:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "technical consultancy"
+      ],
+      "first_seen_at": "2026-09-02T03:36:32Z",
+      "last_seen_at": "2026-09-02T03:36:32Z"
+    },
+    {
+      "id": "MOE000ETT26000013",
+      "kind": "award",
+      "title": "PROJECT MANAGEMENT SERVICES FOR PROPOSED DEVELOPMENT OF AN EDUCATIONAL INSTITUTION IN THE NORTH-WESTERN PART OF SINGAPORE (2ND STAGE OF 2-STAGE QFM TENDER) (MOE000ETT26000013)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=MOE000ETT26000013&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000544174&origin=rss",
+      "award_summary": "RIDER LEVETT BUCKNALL CONSULTANCY PTE. LTD. - SGD 748000",
+      "awarded_at": "2026-08-27T16:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-02T03:36:32Z",
+      "last_seen_at": "2026-09-02T03:36:32Z"
+    },
+    {
+      "id": "HDB000ETT26000086",
+      "kind": "award",
+      "title": "MULTI-DISCIPLINARY (CIVIL & STRUCTURAL ENGINEERING AND QUANTITY SURVEYING) CONSULTANCY SERVICES FOR VARIOUS DEMOLITION PROJECTS (BATCH 34) (HDB000ETT26000086)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=HDB000ETT26000086&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000543701&origin=rss",
+      "award_summary": "ANG & ONG CONSULTANTS PTE. LTD. - SGD 450000",
+      "awarded_at": "2026-08-25T16:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "technical consultancy"
+      ],
+      "first_seen_at": "2026-09-02T03:36:32Z",
+      "last_seen_at": "2026-09-02T03:36:32Z"
+    },
+    {
+      "id": "CAA000EDC26000027",
+      "kind": "award",
+      "title": "Provision of Fibre Backhaul Infrastructure and Remote Monitoring Infrastructure Services for Air Navigation Services Systems (CAA000EDC26000027)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=CAA000EDC26000027&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000039401&origin=rss",
+      "award_summary": "SINGAPORE TELECOMMUNICATIONS LIMITED - SGD 78029776",
+      "awarded_at": "2026-08-02T16:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-02T03:36:32Z",
+      "last_seen_at": "2026-09-02T03:36:32Z"
+    }
+  ]
+}
