@@ -3,10 +3,42 @@
   "source_urls": [
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
   ],
-  "feed_published": "Wed, 2 Sep 2026 00:36:07 +0800",
-  "generated_at": "2026-09-02T04:33:16Z",
-  "record_count": 10,
+  "feed_published": "Wed, 2 Sep 2026 16:36:24 +0800",
+  "generated_at": "2026-09-02T11:15:05Z",
+  "record_count": 12,
   "records": [
+    {
+      "id": "NEA000ETQ26000057",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Invitation to Quote for The Provision of Facilitators for Discovery Journey Programme to Hawker Centres (NEA000ETQ26000057)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=NEA000ETQ26000057&status=AWARDED&type=TQ&OPPORTUNITY_ID=1000000000000544335&origin=rss",
+      "award_summary": "A+B EDU TOURS AND TRAVEL PTE. LTD. - SGD 67500",
+      "awarded_at": "2026-09-01T16:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-02T11:15:05Z",
+      "last_seen_at": "2026-09-02T11:15:05Z"
+    },
+    {
+      "id": "JTC000ETT26000030",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Provision of JTC Independent Mechanical & Electrical (M&E), Civil & Structural (C&S) and Architectural (Archi) Consultancy Services for Development at Space@Tuas2 at Tuas Avenue 1 (JTC000ETT26000030)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=JTC000ETT26000030&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000544540&origin=rss",
+      "award_summary": "BESCON ENGINEERING SERVICES PTE. LTD. - SGD 1.35, RSP ARCHITECTS PLANNERS & ENGINEERS (PTE) LTD - SGD 2.04",
+      "awarded_at": "2026-09-01T16:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "technical consultancy"
+      ],
+      "first_seen_at": "2026-09-02T11:15:05Z",
+      "last_seen_at": "2026-09-02T11:15:05Z"
+    },
     {
       "id": "STB000ETQ26000022",
       "kind": "award",
@@ -20,7 +52,7 @@
         "medical service"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:33:16Z",
+      "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -35,7 +67,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:33:16Z",
+      "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -50,7 +82,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:33:16Z",
+      "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -68,7 +100,7 @@
         "law firm"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:33:16Z",
+      "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -83,7 +115,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:33:16Z",
+      "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -98,7 +130,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:33:16Z",
+      "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -115,7 +147,7 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:33:16Z",
+      "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -130,7 +162,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:33:16Z",
+      "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -147,7 +179,7 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:33:16Z",
+      "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -162,7 +194,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:33:16Z",
+      "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     }

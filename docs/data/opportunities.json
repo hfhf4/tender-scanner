@@ -4,9 +4,9 @@
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_BO_FEED.xml",
     "https://www.renci.org.sg/notices-and-tenders/"
   ],
-  "feed_published": "Wed, 2 Sep 2026 12:00:21 +0800",
-  "generated_at": "2026-09-02T04:33:16Z",
-  "record_count": 22,
+  "feed_published": "Wed, 2 Sep 2026 19:00:21 +0800",
+  "generated_at": "2026-09-02T11:15:05Z",
+  "record_count": 27,
   "records": [
     {
       "id": "HLTHQ0ETT26000034",
@@ -21,9 +21,26 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:33:16Z",
+      "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
+    },
+    {
+      "id": "ESG000ETT26000013",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Period Contract and Framework Agreement for Open Innovation Facilitation Services 3.0",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=ESG000ETT26000013&status=RELEASED&type=TT&OPPORTUNITY_ID=1000000000000544498&origin=rss",
+      "reference": null,
+      "agency": "Enterprise Singapore",
+      "published_at": "2026-09-01T16:00:00Z",
+      "closing_at": "2026-09-28T08:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-02T11:15:05Z",
+      "last_seen_at": "2026-09-02T11:15:05Z"
     },
     {
       "id": "LTA000ETT26000091",
@@ -38,7 +55,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:33:16Z",
+      "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -55,7 +72,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:33:16Z",
+      "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -74,7 +91,7 @@
         "supply or maintenance"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:33:16Z",
+      "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -93,7 +110,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:33:16Z",
+      "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -112,9 +129,77 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:33:16Z",
+      "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
+    },
+    {
+      "id": "MOESCHETQ26003614",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Supply of Chinese Dance CCA Instructor from 12 Jan 2027 to 31 Dec 2027 with Option to Extend from 1 Jan 2028 to 31 Dec 2028",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=MOESCHETQ26003614&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000544388&origin=rss",
+      "reference": null,
+      "agency": "Ministry of Education - Schools",
+      "published_at": "2026-09-01T16:00:00Z",
+      "closing_at": "2026-09-11T05:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-02T11:15:05Z",
+      "last_seen_at": "2026-09-02T11:15:05Z"
+    },
+    {
+      "id": "MOESCHETQ26003608",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Supply of Malay Dance CCA Instructor from 12 Jan 2027 to 31 Dec 2027 with Option to Extend from 1 Jan 2028 to 31 Dec 2028",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=MOESCHETQ26003608&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000544381&origin=rss",
+      "reference": null,
+      "agency": "Ministry of Education - Schools",
+      "published_at": "2026-09-01T16:00:00Z",
+      "closing_at": "2026-09-11T05:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-02T11:15:05Z",
+      "last_seen_at": "2026-09-02T11:15:05Z"
+    },
+    {
+      "id": "MOESCHETQ26003605",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Supply of Choir CCA Instructor & Pianist from 12 Jan 2027 to 31 Dec 2027 with Option to Extend from 1 Jan 2028 to 31 Dec 2028",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=MOESCHETQ26003605&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000544376&origin=rss",
+      "reference": null,
+      "agency": "Ministry of Education - Schools",
+      "published_at": "2026-09-01T16:00:00Z",
+      "closing_at": "2026-09-11T05:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-02T11:15:05Z",
+      "last_seen_at": "2026-09-02T11:15:05Z"
+    },
+    {
+      "id": "MOESCHETQ26003604",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Supply of Indian Dance CCA Instructor from 12 Jan 2027 to 31 Dec 2027 with Option to Extend from 1 Jan 2028 to 31 Dec 2028",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=MOESCHETQ26003604&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000544366&origin=rss",
+      "reference": null,
+      "agency": "Ministry of Education - Schools",
+      "published_at": "2026-09-01T16:00:00Z",
+      "closing_at": "2026-09-11T05:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-02T11:15:05Z",
+      "last_seen_at": "2026-09-02T11:15:05Z"
     },
     {
       "id": "MOESCHETQ26003430",
@@ -129,7 +214,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:33:16Z",
+      "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -148,7 +233,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:33:16Z",
+      "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -167,7 +252,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:33:16Z",
+      "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -186,7 +271,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:33:16Z",
+      "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -205,7 +290,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:33:16Z",
+      "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -224,7 +309,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T04:33:16Z",
+      "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -252,7 +337,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T04:33:16Z"
+      "last_seen_at": "2026-09-02T11:15:05Z"
     },
     {
       "id": "renci:RC26MM06",
@@ -280,7 +365,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T04:33:16Z"
+      "last_seen_at": "2026-09-02T11:15:05Z"
     },
     {
       "id": "renci:RC26MM04",
@@ -306,7 +391,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T04:33:16Z"
+      "last_seen_at": "2026-09-02T11:15:05Z"
     },
     {
       "id": "renci:RC26MM02",
@@ -335,7 +420,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T04:33:16Z"
+      "last_seen_at": "2026-09-02T11:15:05Z"
     },
     {
       "id": "renci:RC26MM03",
@@ -361,7 +446,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T04:33:16Z"
+      "last_seen_at": "2026-09-02T11:15:05Z"
     },
     {
       "id": "renci:RC26MM01",
@@ -390,7 +475,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T04:33:16Z"
+      "last_seen_at": "2026-09-02T11:15:05Z"
     },
     {
       "id": "renci:RC25MM06",
@@ -423,7 +508,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T04:33:16Z"
+      "last_seen_at": "2026-09-02T11:15:05Z"
     },
     {
       "id": "renci:RC25MM05",
@@ -453,7 +538,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T04:33:16Z"
+      "last_seen_at": "2026-09-02T11:15:05Z"
     },
     {
       "id": "renci:RC25MM04",
@@ -479,7 +564,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T04:33:16Z"
+      "last_seen_at": "2026-09-02T11:15:05Z"
     },
     {
       "id": "renci:RC25MM03",
@@ -508,7 +593,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T04:33:16Z"
+      "last_seen_at": "2026-09-02T11:15:05Z"
     }
   ]
 }
