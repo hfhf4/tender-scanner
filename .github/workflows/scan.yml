@@ -30,6 +30,9 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -51,6 +54,7 @@ jobs:
             echo "No data changes to commit."
           else
             git commit -m "chore: refresh GeBIZ feed data"
+            git pull --rebase origin main
             git push
           fi
 
