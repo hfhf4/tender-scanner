@@ -1,0 +1,205 @@
+{
+  "source": "GeBIZ Professional Services RSS",
+  "source_url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_BO_FEED.xml",
+  "feed_published": "Wed, 2 Sep 2026 11:00:21 +0800",
+  "generated_at": "2026-09-02T03:36:32Z",
+  "record_count": 12,
+  "records": [
+    {
+      "id": "HLTHQ0ETT26000034",
+      "kind": "opportunity",
+      "title": "Invitation to Tender for the Provision of Accredited Checker Consultancy Services for the Proposed Development of a Nursing Home in South Central, Singapore",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=HLTHQ0ETT26000034&status=RELEASED&type=TT&OPPORTUNITY_ID=1000000000000543613&origin=rss",
+      "reference": null,
+      "agency": "Ministry of Health-Ministry Headquarter",
+      "published_at": "2026-08-30T16:00:00Z",
+      "closing_at": "2026-09-29T08:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-02T03:36:32Z",
+      "last_seen_at": "2026-09-02T03:36:32Z"
+    },
+    {
+      "id": "LTA000ETT26000091",
+      "kind": "opportunity",
+      "title": "Knackstop Storage Facility Tender",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=LTA000ETT26000091&status=RELEASED&type=TT&OPPORTUNITY_ID=1000000000000544145&origin=rss",
+      "reference": null,
+      "agency": "Land Transport Authority",
+      "published_at": "2026-08-31T16:00:00Z",
+      "closing_at": "2026-09-25T08:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-02T03:36:32Z",
+      "last_seen_at": "2026-09-02T03:36:32Z"
+    },
+    {
+      "id": "PAS000ETT26000080",
+      "kind": "opportunity",
+      "title": "PROVISION OF MANAGEMENT SERVICES OF DIGITAL MARKETING FOR PASSIONARTS PROGRAMME FOR A PERIOD OF TWELVE (12) MONTHS WITH AN OPTION TO EXTEND FOR TWELVE (12) MONTHS",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=PAS000ETT26000080&status=RELEASED&type=TT&OPPORTUNITY_ID=1000000000000544078&origin=rss",
+      "reference": null,
+      "agency": "People's Association",
+      "published_at": "2026-08-30T16:00:00Z",
+      "closing_at": "2026-09-17T08:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-02T03:36:32Z",
+      "last_seen_at": "2026-09-02T03:36:32Z"
+    },
+    {
+      "id": "MOESCHETQ26003616",
+      "kind": "opportunity",
+      "title": "Supply and Installation of a Solar-Powered Aquaponics Farming System",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=MOESCHETQ26003616&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000544411&origin=rss",
+      "reference": null,
+      "agency": "Ministry of Education - Schools",
+      "published_at": "2026-09-01T16:00:00Z",
+      "closing_at": "2026-09-15T05:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "supply or maintenance"
+      ],
+      "first_seen_at": "2026-09-02T03:36:32Z",
+      "last_seen_at": "2026-09-02T03:36:32Z"
+    },
+    {
+      "id": "NPO000ETQ26000111",
+      "kind": "opportunity",
+      "title": "(FY26/SDO/042/ITQ) Provision of Coaching Services for Basketball Club tentatively from 1 April 2027 - 31 Mar 2030",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=NPO000ETQ26000111&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000544269&origin=rss",
+      "reference": null,
+      "agency": "Ngee Ann Polytechnic",
+      "published_at": "2026-09-01T16:00:00Z",
+      "closing_at": "2026-09-11T05:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "training or sports"
+      ],
+      "first_seen_at": "2026-09-02T03:36:32Z",
+      "last_seen_at": "2026-09-02T03:36:32Z"
+    },
+    {
+      "id": "NPO000ETQ26000110",
+      "kind": "opportunity",
+      "title": "(FY26/SDO/059/ITQ) Provision of Coaching Services for Shooting Club tentatively from 1 April 2027 - 31 Mar 2030",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=NPO000ETQ26000110&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000544258&origin=rss",
+      "reference": null,
+      "agency": "Ngee Ann Polytechnic",
+      "published_at": "2026-09-01T16:00:00Z",
+      "closing_at": "2026-09-11T05:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "training or sports"
+      ],
+      "first_seen_at": "2026-09-02T03:36:32Z",
+      "last_seen_at": "2026-09-02T03:36:32Z"
+    },
+    {
+      "id": "MOESCHETQ26003430",
+      "kind": "opportunity",
+      "title": "To procure instructor for International Dance CCA Instructor for Base Year 1 Jan - 31 Dec 2027 & Option Year 1 Jan - 31 Dec 2028",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=MOESCHETQ26003430&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000544152&origin=rss",
+      "reference": null,
+      "agency": "Ministry of Education - Schools",
+      "published_at": "2026-08-31T16:00:00Z",
+      "closing_at": "2026-09-10T05:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-02T03:36:32Z",
+      "last_seen_at": "2026-09-02T03:36:32Z"
+    },
+    {
+      "id": "MOESCHETQ26003452",
+      "kind": "opportunity",
+      "title": "Supply of Instructors for International Chess CCA Training Programme in Yishun Town Sec Sch for 2 base years - 1 Jan 2027 to 31 Dec 2028 + 2 option years - 1 Jan 2029 to 31 Dec 2030 as per specifications attached.",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=MOESCHETQ26003452&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000543353&origin=rss",
+      "reference": null,
+      "agency": "Ministry of Education - Schools",
+      "published_at": "2026-08-31T16:00:00Z",
+      "closing_at": "2026-09-10T05:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "training or sports"
+      ],
+      "first_seen_at": "2026-09-02T03:36:32Z",
+      "last_seen_at": "2026-09-02T03:36:32Z"
+    },
+    {
+      "id": "NPO000ETQ26000106",
+      "kind": "opportunity",
+      "title": "(FY26/SDO/033/ITQ) Provision of Coaching Services for Volleyball Club - Men and Women tentatively from 1 April 2027 - 31 Mar 2030",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=NPO000ETQ26000106&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000543957&origin=rss",
+      "reference": null,
+      "agency": "Ngee Ann Polytechnic",
+      "published_at": "2026-08-30T16:00:00Z",
+      "closing_at": "2026-09-10T05:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "training or sports"
+      ],
+      "first_seen_at": "2026-09-02T03:36:32Z",
+      "last_seen_at": "2026-09-02T03:36:32Z"
+    },
+    {
+      "id": "NPO000ETQ26000107",
+      "kind": "opportunity",
+      "title": "(FY26/SDO/032/ITQ) Provision of coaching services for Track & Field Club - Sprint & Hurdle tentatively from 1 April 2027 to 31 March 2030",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=NPO000ETQ26000107&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000543813&origin=rss",
+      "reference": null,
+      "agency": "Ngee Ann Polytechnic",
+      "published_at": "2026-08-30T16:00:00Z",
+      "closing_at": "2026-09-09T05:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "training or sports"
+      ],
+      "first_seen_at": "2026-09-02T03:36:32Z",
+      "last_seen_at": "2026-09-02T03:36:32Z"
+    },
+    {
+      "id": "MOE000ETQ26000210",
+      "kind": "opportunity",
+      "title": "Appointment of Contractor for the Provision of Technical Officials and Equipment for the 2027 National School Games (NSG) Water Polo Championship under Singapore Schools Sports Council (SSSC).",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=MOE000ETQ26000210&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000543756&origin=rss",
+      "reference": null,
+      "agency": "Ministry of Education",
+      "published_at": "2026-08-30T16:00:00Z",
+      "closing_at": "2026-09-09T05:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "training or sports"
+      ],
+      "first_seen_at": "2026-09-02T03:36:32Z",
+      "last_seen_at": "2026-09-02T03:36:32Z"
+    },
+    {
+      "id": "MOESCHETQ26003460",
+      "kind": "opportunity",
+      "title": "Provision of Jerseys, Shorts & Socks for Sports Co-Curricular Activity (CCA) Groups for Victoria School- for Contract Period: 1. Base contract year: 1 December 2026 to 30 November 2027 2. Option year: 1 December 2027 to 30 November 2028 3. Option year: 1 December 2028 t0 30 November 2029",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=MOESCHETQ26003460&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000543421&origin=rss",
+      "reference": null,
+      "agency": "Ministry of Education - Schools",
+      "published_at": "2026-08-30T16:00:00Z",
+      "closing_at": "2026-09-09T05:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "training or sports"
+      ],
+      "first_seen_at": "2026-09-02T03:36:32Z",
+      "last_seen_at": "2026-09-02T03:36:32Z"
+    }
+  ]
+}
