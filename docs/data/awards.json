@@ -4,7 +4,7 @@
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
   ],
   "feed_published": "Thu, 3 Sep 2026 00:36:13 +0800",
-  "generated_at": "2026-09-02T21:01:18Z",
+  "generated_at": "2026-09-02T23:18:32Z",
   "record_count": 13,
   "records": [
     {
@@ -20,7 +20,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-02T21:01:18Z"
+      "last_seen_at": "2026-09-02T23:18:32Z"
     },
     {
       "id": "JTC000ETT26000030",
@@ -37,7 +37,7 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-02T21:01:18Z"
+      "last_seen_at": "2026-09-02T23:18:32Z"
     },
     {
       "id": "NHB000ETQ26000007",
@@ -52,7 +52,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T16:43:52Z",
-      "last_seen_at": "2026-09-02T21:01:18Z"
+      "last_seen_at": "2026-09-02T23:18:32Z"
     },
     {
       "id": "STB000ETQ26000022",
@@ -67,7 +67,7 @@
         "medical service"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T21:01:18Z",
+      "last_seen_at": "2026-09-02T23:18:32Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -82,7 +82,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T21:01:18Z",
+      "last_seen_at": "2026-09-02T23:18:32Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -130,7 +130,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T21:01:18Z",
+      "last_seen_at": "2026-09-02T23:18:32Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -162,7 +162,7 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T21:01:18Z",
+      "last_seen_at": "2026-09-02T23:18:32Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -177,7 +177,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T21:01:18Z",
+      "last_seen_at": "2026-09-02T23:18:32Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -194,7 +194,7 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T21:01:18Z",
+      "last_seen_at": "2026-09-02T23:18:32Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
