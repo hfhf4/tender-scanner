@@ -4,8 +4,8 @@
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_BO_FEED.xml",
     "https://www.renci.org.sg/notices-and-tenders/"
   ],
-  "feed_published": "Fri, 4 Sep 2026 05:00:20 +0800",
-  "generated_at": "2026-09-03T21:00:34Z",
+  "feed_published": "Fri, 4 Sep 2026 07:00:20 +0800",
+  "generated_at": "2026-09-03T23:16:04Z",
   "record_count": 39,
   "records": [
     {
@@ -23,7 +23,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T04:20:43Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "HLTHQ0ETT26000035",
@@ -42,7 +42,7 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-03T21:00:34Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "TPO000ETQ26000108",
@@ -59,7 +59,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T11:11:11Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "HLTHQ0ETT26000034",
@@ -93,7 +93,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "LTA000ETT26000091",
@@ -127,7 +127,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T11:11:11Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "PAS000ETT26000080",
@@ -163,7 +163,7 @@
         "supply or maintenance"
       ],
       "first_seen_at": "2026-09-03T11:11:11Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "MOESCHETQ26003616",
@@ -180,7 +180,7 @@
         "supply or maintenance"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T21:00:34Z",
+      "last_seen_at": "2026-09-03T23:16:04Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -199,7 +199,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T04:20:43Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "MOESCHETQ26003657",
@@ -216,7 +216,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T04:20:43Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "MOESCHETQ26003633",
@@ -233,7 +233,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T04:20:43Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "MOE000ETQ26000214",
@@ -250,7 +250,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T11:11:11Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "MOESCHETQ26003681",
@@ -267,7 +267,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T11:11:11Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "RPO000ETQ26000091",
@@ -284,7 +284,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T21:00:34Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "CCYNYCETQ26000019",
@@ -301,7 +301,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T21:00:34Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "NPO000ETQ26000111",
@@ -318,7 +318,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T21:00:34Z",
+      "last_seen_at": "2026-09-03T23:16:04Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -337,7 +337,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T21:00:34Z",
+      "last_seen_at": "2026-09-03T23:16:04Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -356,7 +356,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "MOESCHETQ26003608",
@@ -373,7 +373,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "MOESCHETQ26003605",
@@ -390,7 +390,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "MOESCHETQ26003604",
@@ -407,7 +407,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "MOESCHETQ26003430",
@@ -545,7 +545,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "renci:RC26MM06",
@@ -573,7 +573,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "renci:RC26MM04",
@@ -599,7 +599,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "renci:RC26MM02",
@@ -628,7 +628,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "renci:RC26MM03",
@@ -654,7 +654,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "renci:RC26MM01",
@@ -683,7 +683,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "renci:RC25MM06",
@@ -716,7 +716,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "renci:RC25MM05",
@@ -746,7 +746,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "renci:RC25MM04",
@@ -772,7 +772,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     },
     {
       "id": "renci:RC25MM03",
@@ -801,7 +801,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T21:00:34Z"
+      "last_seen_at": "2026-09-03T23:16:04Z"
     }
   ]
 }
