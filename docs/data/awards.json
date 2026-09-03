@@ -3,9 +3,9 @@
   "source_urls": [
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
   ],
-  "feed_published": "Thu, 3 Sep 2026 16:36:28 +0800",
-  "generated_at": "2026-09-03T11:11:11Z",
-  "record_count": 14,
+  "feed_published": "Thu, 3 Sep 2026 19:36:35 +0800",
+  "generated_at": "2026-09-03T16:23:57Z",
+  "record_count": 15,
   "records": [
     {
       "id": "MOE000ETT26000040",
@@ -20,7 +20,22 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T11:11:11Z",
-      "last_seen_at": "2026-09-03T11:11:11Z"
+      "last_seen_at": "2026-09-03T16:23:57Z"
+    },
+    {
+      "id": "NYP000ETQ26000104",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Invitation to Quote (ITQ) for Consultancy Services to Refresh NYP-Wide Strategic Plan (NYP000ETQ26000104)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=NYP000ETQ26000104&status=AWARDED&type=TQ&OPPORTUNITY_ID=1000000000000544571&origin=rss",
+      "award_summary": "BINOMIAL PTE. LTD. - SGD 89425",
+      "awarded_at": "2026-09-02T16:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-03T16:23:57Z",
+      "last_seen_at": "2026-09-03T16:23:57Z"
     },
     {
       "id": "NEA000ETQ26000057",
@@ -35,7 +50,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-03T11:11:11Z"
+      "last_seen_at": "2026-09-03T16:23:57Z"
     },
     {
       "id": "JTC000ETT26000030",
@@ -52,7 +67,7 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-03T11:11:11Z"
+      "last_seen_at": "2026-09-03T16:23:57Z"
     },
     {
       "id": "NHB000ETQ26000007",
@@ -67,7 +82,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T16:43:52Z",
-      "last_seen_at": "2026-09-03T11:11:11Z"
+      "last_seen_at": "2026-09-03T16:23:57Z"
     },
     {
       "id": "STB000ETQ26000022",
@@ -82,7 +97,7 @@
         "medical service"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T11:11:11Z",
+      "last_seen_at": "2026-09-03T16:23:57Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -97,7 +112,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T11:11:11Z",
+      "last_seen_at": "2026-09-03T16:23:57Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -145,7 +160,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T11:11:11Z",
+      "last_seen_at": "2026-09-03T16:23:57Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -177,7 +192,7 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T11:11:11Z",
+      "last_seen_at": "2026-09-03T16:23:57Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -192,7 +207,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T11:11:11Z",
+      "last_seen_at": "2026-09-03T16:23:57Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -209,7 +224,7 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T11:11:11Z",
+      "last_seen_at": "2026-09-03T16:23:57Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
