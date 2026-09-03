@@ -4,9 +4,9 @@
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_BO_FEED.xml",
     "https://www.renci.org.sg/notices-and-tenders/"
   ],
-  "feed_published": "Thu, 3 Sep 2026 12:00:21 +0800",
-  "generated_at": "2026-09-03T04:20:43Z",
-  "record_count": 31,
+  "feed_published": "Thu, 3 Sep 2026 19:00:20 +0800",
+  "generated_at": "2026-09-03T11:11:11Z",
+  "record_count": 36,
   "records": [
     {
       "id": "LTA000ETT26000093",
@@ -23,7 +23,24 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T04:20:43Z",
-      "last_seen_at": "2026-09-03T04:20:43Z"
+      "last_seen_at": "2026-09-03T11:11:11Z"
+    },
+    {
+      "id": "TPO000ETQ26000108",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "TPO-REQ-2026-006246-SH-Invitation to Quote for the Appointment Of Insurance Broker for Professional Indemnity (PI), Directors' & Officers' Liability (D&O) and Public Liability (PL) Insurances for Temasek Polytechnic for Five Years with an Option to Extend for Another Two Years",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=TPO000ETQ26000108&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000544737&origin=rss",
+      "reference": null,
+      "agency": "Temasek Polytechnic",
+      "published_at": "2026-09-02T16:00:00Z",
+      "closing_at": "2026-09-30T05:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-03T11:11:11Z",
+      "last_seen_at": "2026-09-03T11:11:11Z"
     },
     {
       "id": "HLTHQ0ETT26000034",
@@ -57,7 +74,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-03T04:20:43Z"
+      "last_seen_at": "2026-09-03T11:11:11Z"
     },
     {
       "id": "LTA000ETT26000091",
@@ -72,9 +89,26 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T04:20:43Z",
+      "last_seen_at": "2026-09-03T11:11:11Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
+    },
+    {
+      "id": "CDVHQ0ETT26000025",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Invitation to Quote for the Provision of Town-level Stakeholder Engagement Services for Families for Life @ Community (FFLC)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=CDVHQ0ETT26000025&status=RELEASED&type=TT&OPPORTUNITY_ID=1000000000000544690&origin=rss",
+      "reference": null,
+      "agency": "Ministry of Social and Family Development - Ministry Headquarter",
+      "published_at": "2026-09-02T16:00:00Z",
+      "closing_at": "2026-09-23T08:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-03T11:11:11Z",
+      "last_seen_at": "2026-09-03T11:11:11Z"
     },
     {
       "id": "PAS000ETT26000080",
@@ -94,6 +128,25 @@
       "source_key": "gebiz"
     },
     {
+      "id": "MOESCHETQ26003692",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "To design, supply & installation of St. Margaret's School (Primary)'s Honour Roll Boards and Bible Verses",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=MOESCHETQ26003692&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000544768&origin=rss",
+      "reference": null,
+      "agency": "Ministry of Education - Schools",
+      "published_at": "2026-09-02T16:00:00Z",
+      "closing_at": "2026-09-16T05:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "supply or maintenance"
+      ],
+      "first_seen_at": "2026-09-03T11:11:11Z",
+      "last_seen_at": "2026-09-03T11:11:11Z"
+    },
+    {
       "id": "MOESCHETQ26003616",
       "kind": "opportunity",
       "title": "Supply and Installation of a Solar-Powered Aquaponics Farming System",
@@ -108,7 +161,7 @@
         "supply or maintenance"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T04:20:43Z",
+      "last_seen_at": "2026-09-03T11:11:11Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -127,7 +180,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T04:20:43Z",
-      "last_seen_at": "2026-09-03T04:20:43Z"
+      "last_seen_at": "2026-09-03T11:11:11Z"
     },
     {
       "id": "MOESCHETQ26003657",
@@ -144,7 +197,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T04:20:43Z",
-      "last_seen_at": "2026-09-03T04:20:43Z"
+      "last_seen_at": "2026-09-03T11:11:11Z"
     },
     {
       "id": "MOESCHETQ26003633",
@@ -161,7 +214,41 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T04:20:43Z",
-      "last_seen_at": "2026-09-03T04:20:43Z"
+      "last_seen_at": "2026-09-03T11:11:11Z"
+    },
+    {
+      "id": "MOE000ETQ26000214",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "INVITATION TO QUOTE (ITQ) FOR THE DEVELOPMENT OF TWO INTERACTIVE HTML5 RESOURCES FOR LITERATURE STUDENTS",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=MOE000ETQ26000214&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000544732&origin=rss",
+      "reference": null,
+      "agency": "Ministry of Education",
+      "published_at": "2026-09-02T16:00:00Z",
+      "closing_at": "2026-09-14T05:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-03T11:11:11Z",
+      "last_seen_at": "2026-09-03T11:11:11Z"
+    },
+    {
+      "id": "MOESCHETQ26003681",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Supply of Instructors for Cyberwellness Programme in Victoria School from 14 Oct 2026 to 22 Oct 2026",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=MOESCHETQ26003681&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000544720&origin=rss",
+      "reference": null,
+      "agency": "Ministry of Education - Schools",
+      "published_at": "2026-09-02T16:00:00Z",
+      "closing_at": "2026-09-14T05:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-03T11:11:11Z",
+      "last_seen_at": "2026-09-03T11:11:11Z"
     },
     {
       "id": "NPO000ETQ26000111",
@@ -178,7 +265,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T04:20:43Z",
+      "last_seen_at": "2026-09-03T11:11:11Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -197,7 +284,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T04:20:43Z",
+      "last_seen_at": "2026-09-03T11:11:11Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -216,7 +303,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-03T04:20:43Z"
+      "last_seen_at": "2026-09-03T11:11:11Z"
     },
     {
       "id": "MOESCHETQ26003608",
@@ -233,7 +320,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-03T04:20:43Z"
+      "last_seen_at": "2026-09-03T11:11:11Z"
     },
     {
       "id": "MOESCHETQ26003605",
@@ -250,7 +337,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-03T04:20:43Z"
+      "last_seen_at": "2026-09-03T11:11:11Z"
     },
     {
       "id": "MOESCHETQ26003604",
@@ -267,7 +354,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-03T04:20:43Z"
+      "last_seen_at": "2026-09-03T11:11:11Z"
     },
     {
       "id": "MOESCHETQ26003430",
@@ -282,7 +369,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T04:20:43Z",
+      "last_seen_at": "2026-09-03T11:11:11Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -301,7 +388,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T04:20:43Z",
+      "last_seen_at": "2026-09-03T11:11:11Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -405,7 +492,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T04:20:43Z"
+      "last_seen_at": "2026-09-03T11:11:11Z"
     },
     {
       "id": "renci:RC26MM06",
@@ -433,7 +520,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T04:20:43Z"
+      "last_seen_at": "2026-09-03T11:11:11Z"
     },
     {
       "id": "renci:RC26MM04",
@@ -459,7 +546,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T04:20:43Z"
+      "last_seen_at": "2026-09-03T11:11:11Z"
     },
     {
       "id": "renci:RC26MM02",
@@ -488,7 +575,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T04:20:43Z"
+      "last_seen_at": "2026-09-03T11:11:11Z"
     },
     {
       "id": "renci:RC26MM03",
@@ -514,7 +601,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T04:20:43Z"
+      "last_seen_at": "2026-09-03T11:11:11Z"
     },
     {
       "id": "renci:RC26MM01",
@@ -543,7 +630,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T04:20:43Z"
+      "last_seen_at": "2026-09-03T11:11:11Z"
     },
     {
       "id": "renci:RC25MM06",
@@ -576,7 +663,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T04:20:43Z"
+      "last_seen_at": "2026-09-03T11:11:11Z"
     },
     {
       "id": "renci:RC25MM05",
@@ -606,7 +693,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T04:20:43Z"
+      "last_seen_at": "2026-09-03T11:11:11Z"
     },
     {
       "id": "renci:RC25MM04",
@@ -632,7 +719,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T04:20:43Z"
+      "last_seen_at": "2026-09-03T11:11:11Z"
     },
     {
       "id": "renci:RC25MM03",
@@ -661,7 +748,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T04:20:43Z"
+      "last_seen_at": "2026-09-03T11:11:11Z"
     }
   ]
 }

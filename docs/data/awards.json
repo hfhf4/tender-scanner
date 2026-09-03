@@ -3,10 +3,25 @@
   "source_urls": [
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
   ],
-  "feed_published": "Thu, 3 Sep 2026 00:36:13 +0800",
-  "generated_at": "2026-09-03T04:20:43Z",
-  "record_count": 13,
+  "feed_published": "Thu, 3 Sep 2026 16:36:28 +0800",
+  "generated_at": "2026-09-03T11:11:11Z",
+  "record_count": 14,
   "records": [
+    {
+      "id": "MOE000ETT26000040",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "INVITATION TO TENDER FOR ACCREDITED CHECKING ORGANISATION AND SPECIALIST ACCREDITED CHECKER (GEOTECHNICAL) SERVICES FOR THE REBUILDING OF MARIS STELLA HIGH SCHOOL (PRIMARY & SECONDARY ) (MOE000ETT26000040)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=MOE000ETT26000040&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000544660&origin=rss",
+      "award_summary": "TERS CONSULTING PTE. LTD. - SGD 67228",
+      "awarded_at": "2026-09-02T16:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-03T11:11:11Z",
+      "last_seen_at": "2026-09-03T11:11:11Z"
+    },
     {
       "id": "NEA000ETQ26000057",
       "kind": "award",
@@ -20,7 +35,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-03T04:20:43Z"
+      "last_seen_at": "2026-09-03T11:11:11Z"
     },
     {
       "id": "JTC000ETT26000030",
@@ -37,7 +52,7 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-03T04:20:43Z"
+      "last_seen_at": "2026-09-03T11:11:11Z"
     },
     {
       "id": "NHB000ETQ26000007",
@@ -52,7 +67,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T16:43:52Z",
-      "last_seen_at": "2026-09-03T04:20:43Z"
+      "last_seen_at": "2026-09-03T11:11:11Z"
     },
     {
       "id": "STB000ETQ26000022",
@@ -67,7 +82,7 @@
         "medical service"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T04:20:43Z",
+      "last_seen_at": "2026-09-03T11:11:11Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -82,7 +97,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T04:20:43Z",
+      "last_seen_at": "2026-09-03T11:11:11Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -130,7 +145,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T04:20:43Z",
+      "last_seen_at": "2026-09-03T11:11:11Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -162,7 +177,7 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T04:20:43Z",
+      "last_seen_at": "2026-09-03T11:11:11Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -177,7 +192,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T04:20:43Z",
+      "last_seen_at": "2026-09-03T11:11:11Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -194,7 +209,7 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T04:20:43Z",
+      "last_seen_at": "2026-09-03T11:11:11Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
