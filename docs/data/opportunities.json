@@ -4,10 +4,27 @@
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_BO_FEED.xml",
     "https://www.renci.org.sg/notices-and-tenders/"
   ],
-  "feed_published": "Thu, 3 Sep 2026 07:00:20 +0800",
-  "generated_at": "2026-09-02T23:18:32Z",
-  "record_count": 27,
+  "feed_published": "Thu, 3 Sep 2026 12:00:21 +0800",
+  "generated_at": "2026-09-03T04:20:43Z",
+  "record_count": 31,
   "records": [
+    {
+      "id": "LTA000ETT26000093",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Provision of Tunnel Washing Vehicles and Washing Services",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=LTA000ETT26000093&status=RELEASED&type=TT&OPPORTUNITY_ID=1000000000000544613&origin=rss",
+      "reference": null,
+      "agency": "Land Transport Authority",
+      "published_at": "2026-09-02T16:00:00Z",
+      "closing_at": "2026-10-05T08:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-03T04:20:43Z",
+      "last_seen_at": "2026-09-03T04:20:43Z"
+    },
     {
       "id": "HLTHQ0ETT26000034",
       "kind": "opportunity",
@@ -40,7 +57,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-02T23:18:32Z"
+      "last_seen_at": "2026-09-03T04:20:43Z"
     },
     {
       "id": "LTA000ETT26000091",
@@ -55,7 +72,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T23:18:32Z",
+      "last_seen_at": "2026-09-03T04:20:43Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -91,9 +108,60 @@
         "supply or maintenance"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T23:18:32Z",
+      "last_seen_at": "2026-09-03T04:20:43Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
+    },
+    {
+      "id": "MOESCHETQ26003642",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Engagement of a professional mural artist/facilitator to conduct a 3-year P6 Post-PSLE Mural Painting Programme",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=MOESCHETQ26003642&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000544604&origin=rss",
+      "reference": null,
+      "agency": "Ministry of Education - Schools",
+      "published_at": "2026-09-02T16:00:00Z",
+      "closing_at": "2026-09-15T05:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-03T04:20:43Z",
+      "last_seen_at": "2026-09-03T04:20:43Z"
+    },
+    {
+      "id": "MOESCHETQ26003657",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Engagement of CCA TABLE-TENNIS Instructors for Boy's and Girl's Team for 2027. With An Option to Renew for 2028.",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=MOESCHETQ26003657&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000544650&origin=rss",
+      "reference": null,
+      "agency": "Ministry of Education - Schools",
+      "published_at": "2026-09-02T16:00:00Z",
+      "closing_at": "2026-09-14T05:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-03T04:20:43Z",
+      "last_seen_at": "2026-09-03T04:20:43Z"
+    },
+    {
+      "id": "MOESCHETQ26003633",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "River Valley High School : Supply of CLDDS Drama Instructor for Sec level (1 Jan 2027 to 31 Dec 2028)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=MOESCHETQ26003633&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000544492&origin=rss",
+      "reference": null,
+      "agency": "Ministry of Education - Schools",
+      "published_at": "2026-09-02T16:00:00Z",
+      "closing_at": "2026-09-14T05:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-03T04:20:43Z",
+      "last_seen_at": "2026-09-03T04:20:43Z"
     },
     {
       "id": "NPO000ETQ26000111",
@@ -110,7 +178,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T23:18:32Z",
+      "last_seen_at": "2026-09-03T04:20:43Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -129,7 +197,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T23:18:32Z",
+      "last_seen_at": "2026-09-03T04:20:43Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -148,7 +216,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-02T23:18:32Z"
+      "last_seen_at": "2026-09-03T04:20:43Z"
     },
     {
       "id": "MOESCHETQ26003608",
@@ -165,7 +233,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-02T23:18:32Z"
+      "last_seen_at": "2026-09-03T04:20:43Z"
     },
     {
       "id": "MOESCHETQ26003605",
@@ -182,7 +250,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-02T23:18:32Z"
+      "last_seen_at": "2026-09-03T04:20:43Z"
     },
     {
       "id": "MOESCHETQ26003604",
@@ -199,7 +267,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-02T23:18:32Z"
+      "last_seen_at": "2026-09-03T04:20:43Z"
     },
     {
       "id": "MOESCHETQ26003430",
@@ -214,7 +282,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T23:18:32Z",
+      "last_seen_at": "2026-09-03T04:20:43Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -233,7 +301,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-02T23:18:32Z",
+      "last_seen_at": "2026-09-03T04:20:43Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -337,7 +405,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T23:18:32Z"
+      "last_seen_at": "2026-09-03T04:20:43Z"
     },
     {
       "id": "renci:RC26MM06",
@@ -365,7 +433,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T23:18:32Z"
+      "last_seen_at": "2026-09-03T04:20:43Z"
     },
     {
       "id": "renci:RC26MM04",
@@ -391,7 +459,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T23:18:32Z"
+      "last_seen_at": "2026-09-03T04:20:43Z"
     },
     {
       "id": "renci:RC26MM02",
@@ -420,7 +488,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T23:18:32Z"
+      "last_seen_at": "2026-09-03T04:20:43Z"
     },
     {
       "id": "renci:RC26MM03",
@@ -446,7 +514,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T23:18:32Z"
+      "last_seen_at": "2026-09-03T04:20:43Z"
     },
     {
       "id": "renci:RC26MM01",
@@ -475,7 +543,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T23:18:32Z"
+      "last_seen_at": "2026-09-03T04:20:43Z"
     },
     {
       "id": "renci:RC25MM06",
@@ -508,7 +576,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T23:18:32Z"
+      "last_seen_at": "2026-09-03T04:20:43Z"
     },
     {
       "id": "renci:RC25MM05",
@@ -538,7 +606,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T23:18:32Z"
+      "last_seen_at": "2026-09-03T04:20:43Z"
     },
     {
       "id": "renci:RC25MM04",
@@ -564,7 +632,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T23:18:32Z"
+      "last_seen_at": "2026-09-03T04:20:43Z"
     },
     {
       "id": "renci:RC25MM03",
@@ -593,7 +661,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-02T23:18:32Z"
+      "last_seen_at": "2026-09-03T04:20:43Z"
     }
   ]
 }
