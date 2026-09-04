@@ -4,7 +4,7 @@
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
   ],
   "feed_published": "Sat, 5 Sep 2026 00:48:23 +0800",
-  "generated_at": "2026-09-04T20:44:17Z",
+  "generated_at": "2026-09-04T23:02:29Z",
   "record_count": 21,
   "records": [
     {
@@ -20,7 +20,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-04T11:15:27Z",
-      "last_seen_at": "2026-09-04T20:44:17Z"
+      "last_seen_at": "2026-09-04T23:02:29Z"
     },
     {
       "id": "TRAHQ0ETT26000002",
@@ -35,7 +35,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-04T11:15:27Z",
-      "last_seen_at": "2026-09-04T20:44:17Z"
+      "last_seen_at": "2026-09-04T23:02:29Z"
     },
     {
       "id": "JUDSUPETQ26000002",
@@ -50,7 +50,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-04T11:15:27Z",
-      "last_seen_at": "2026-09-04T20:44:17Z"
+      "last_seen_at": "2026-09-04T23:02:29Z"
     },
     {
       "id": "SSC000ETT26000027",
@@ -67,7 +67,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-04T11:15:27Z",
-      "last_seen_at": "2026-09-04T20:44:17Z"
+      "last_seen_at": "2026-09-04T23:02:29Z"
     },
     {
       "id": "PUB000ETT26000050",
@@ -84,7 +84,7 @@
         "technology services"
       ],
       "first_seen_at": "2026-09-04T16:19:40Z",
-      "last_seen_at": "2026-09-04T20:44:17Z"
+      "last_seen_at": "2026-09-04T23:02:29Z"
     },
     {
       "id": "MOE000ETT26000040",
@@ -99,7 +99,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T11:11:11Z",
-      "last_seen_at": "2026-09-04T20:44:17Z"
+      "last_seen_at": "2026-09-04T23:02:29Z"
     },
     {
       "id": "NYP000ETQ26000104",
@@ -114,7 +114,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T16:23:57Z",
-      "last_seen_at": "2026-09-04T20:44:17Z"
+      "last_seen_at": "2026-09-04T23:02:29Z"
     },
     {
       "id": "NEA000ETQ26000057",
@@ -335,7 +335,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-04T11:15:27Z",
-      "last_seen_at": "2026-09-04T20:44:17Z"
+      "last_seen_at": "2026-09-04T23:02:29Z"
     }
   ]
 }
