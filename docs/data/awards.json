@@ -3,9 +3,9 @@
   "source_urls": [
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
   ],
-  "feed_published": "Fri, 4 Sep 2026 16:36:17 +0800",
-  "generated_at": "2026-09-04T11:15:27Z",
-  "record_count": 20,
+  "feed_published": "Fri, 4 Sep 2026 19:36:19 +0800",
+  "generated_at": "2026-09-04T16:19:40Z",
+  "record_count": 21,
   "records": [
     {
       "id": "ESG000ETT26000008",
@@ -20,7 +20,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-04T11:15:27Z",
-      "last_seen_at": "2026-09-04T11:15:27Z"
+      "last_seen_at": "2026-09-04T16:19:40Z"
     },
     {
       "id": "TRAHQ0ETT26000002",
@@ -35,7 +35,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-04T11:15:27Z",
-      "last_seen_at": "2026-09-04T11:15:27Z"
+      "last_seen_at": "2026-09-04T16:19:40Z"
     },
     {
       "id": "JUDSUPETQ26000002",
@@ -50,7 +50,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-04T11:15:27Z",
-      "last_seen_at": "2026-09-04T11:15:27Z"
+      "last_seen_at": "2026-09-04T16:19:40Z"
     },
     {
       "id": "SSC000ETT26000027",
@@ -67,7 +67,24 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-04T11:15:27Z",
-      "last_seen_at": "2026-09-04T11:15:27Z"
+      "last_seen_at": "2026-09-04T16:19:40Z"
+    },
+    {
+      "id": "PUB000ETT26000050",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Inspection of Drainage Network in Singapore (PUB000ETT26000050)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=PUB000ETT26000050&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000544917&origin=rss",
+      "award_summary": "FONG CONSULT PTE. LTD. - SGD 2177500",
+      "awarded_at": "2026-09-03T16:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "technology services"
+      ],
+      "first_seen_at": "2026-09-04T16:19:40Z",
+      "last_seen_at": "2026-09-04T16:19:40Z"
     },
     {
       "id": "MOE000ETT26000040",
@@ -82,7 +99,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T11:11:11Z",
-      "last_seen_at": "2026-09-04T11:15:27Z"
+      "last_seen_at": "2026-09-04T16:19:40Z"
     },
     {
       "id": "NYP000ETQ26000104",
@@ -97,7 +114,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T16:23:57Z",
-      "last_seen_at": "2026-09-04T11:15:27Z"
+      "last_seen_at": "2026-09-04T16:19:40Z"
     },
     {
       "id": "NEA000ETQ26000057",
@@ -112,7 +129,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-04T11:15:27Z"
+      "last_seen_at": "2026-09-04T16:19:40Z"
     },
     {
       "id": "JTC000ETT26000030",
@@ -129,7 +146,7 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-04T11:15:27Z"
+      "last_seen_at": "2026-09-04T16:19:40Z"
     },
     {
       "id": "NHB000ETQ26000007",
@@ -144,7 +161,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T16:43:52Z",
-      "last_seen_at": "2026-09-04T11:15:27Z"
+      "last_seen_at": "2026-09-04T16:19:40Z"
     },
     {
       "id": "STB000ETQ26000022",
@@ -318,7 +335,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-04T11:15:27Z",
-      "last_seen_at": "2026-09-04T11:15:27Z"
+      "last_seen_at": "2026-09-04T16:19:40Z"
     }
   ]
 }
