@@ -3,10 +3,72 @@
   "source_urls": [
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
   ],
-  "feed_published": "Fri, 4 Sep 2026 00:36:13 +0800",
-  "generated_at": "2026-09-04T04:29:25Z",
-  "record_count": 15,
+  "feed_published": "Fri, 4 Sep 2026 16:36:17 +0800",
+  "generated_at": "2026-09-04T11:15:27Z",
+  "record_count": 20,
   "records": [
+    {
+      "id": "ESG000ETT26000008",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Appointment of Insurance Broker for Enterprise Singapore (EnterpriseSG) Dubai OC Overseas Based Staff (OBS) Health Insurance (ESG000ETT26000008)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=ESG000ETT26000008&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000544819&origin=rss",
+      "award_summary": "Abu Dhabi Insurance Brokers LLC - SGD 1",
+      "awarded_at": "2026-09-03T16:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-04T11:15:27Z",
+      "last_seen_at": "2026-09-04T11:15:27Z"
+    },
+    {
+      "id": "TRAHQ0ETT26000002",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Provision of Audit Services [IAU] (TRAHQ0ETT26000002)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=TRAHQ0ETT26000002&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000544442&origin=rss",
+      "award_summary": "PRICEWATERHOUSECOOPERS RISK SERVICES PTE. LTD. - SGD 12750, IN.CORP BUSINESS ADVISORY PTE. LTD. - SGD 82500, ACCLIME RISK ADVISORY PTE. LTD. - SGD 52000",
+      "awarded_at": "2026-09-03T16:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-04T11:15:27Z",
+      "last_seen_at": "2026-09-04T11:15:27Z"
+    },
+    {
+      "id": "JUDSUPETQ26000002",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "INVITATION TO QUOTE FOR THE PROVISION OF INTERNAL AUDIT SERVICES FOR THE SINGAPORE COURTS (JUDSUPETQ26000002)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=JUDSUPETQ26000002&status=AWARDED&type=TQ&OPPORTUNITY_ID=1000000000000544844&origin=rss",
+      "award_summary": "IN.CORP BUSINESS ADVISORY PTE. LTD. - SGD 37000",
+      "awarded_at": "2026-09-03T16:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-04T11:15:27Z",
+      "last_seen_at": "2026-09-04T11:15:27Z"
+    },
+    {
+      "id": "SSC000ETT26000027",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Design, Project Management and Facilitation of Sport Singapore's Public Engagement Exercise (SSC000ETT26000027)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=SSC000ETT26000027&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000544911&origin=rss",
+      "award_summary": "DELOITTE SINGAPORE T&T PTE. LTD. - SGD 497873",
+      "awarded_at": "2026-09-03T16:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "training or sports"
+      ],
+      "first_seen_at": "2026-09-04T11:15:27Z",
+      "last_seen_at": "2026-09-04T11:15:27Z"
+    },
     {
       "id": "MOE000ETT26000040",
       "kind": "award",
@@ -20,7 +82,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T11:11:11Z",
-      "last_seen_at": "2026-09-04T04:29:25Z"
+      "last_seen_at": "2026-09-04T11:15:27Z"
     },
     {
       "id": "NYP000ETQ26000104",
@@ -35,7 +97,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T16:23:57Z",
-      "last_seen_at": "2026-09-04T04:29:25Z"
+      "last_seen_at": "2026-09-04T11:15:27Z"
     },
     {
       "id": "NEA000ETQ26000057",
@@ -50,7 +112,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-04T04:29:25Z"
+      "last_seen_at": "2026-09-04T11:15:27Z"
     },
     {
       "id": "JTC000ETT26000030",
@@ -67,7 +129,7 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-04T04:29:25Z"
+      "last_seen_at": "2026-09-04T11:15:27Z"
     },
     {
       "id": "NHB000ETQ26000007",
@@ -82,7 +144,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T16:43:52Z",
-      "last_seen_at": "2026-09-04T04:29:25Z"
+      "last_seen_at": "2026-09-04T11:15:27Z"
     },
     {
       "id": "STB000ETQ26000022",
@@ -242,6 +304,21 @@
       "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
+    },
+    {
+      "id": "IMD000EDC26000094",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Direct Contracting for Advance Efforts in Developing Singapore into a Digital Talent Hub (IMD000EDC26000094)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=IMD000EDC26000094&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000039462&origin=rss",
+      "award_summary": "SINGAPORE COMPUTER SOCIETY - SGD 833990",
+      "awarded_at": "2026-07-30T16:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-04T11:15:27Z",
+      "last_seen_at": "2026-09-04T11:15:27Z"
     }
   ]
 }
