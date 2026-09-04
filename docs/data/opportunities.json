@@ -4,9 +4,9 @@
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_BO_FEED.xml",
     "https://www.renci.org.sg/notices-and-tenders/"
   ],
-  "feed_published": "Fri, 4 Sep 2026 07:00:20 +0800",
-  "generated_at": "2026-09-03T23:16:04Z",
-  "record_count": 39,
+  "feed_published": "Fri, 4 Sep 2026 12:00:22 +0800",
+  "generated_at": "2026-09-04T04:29:25Z",
+  "record_count": 45,
   "records": [
     {
       "id": "LTA000ETT26000093",
@@ -23,7 +23,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T04:20:43Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "HLTHQ0ETT26000035",
@@ -42,7 +42,24 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-03T21:00:34Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
+    },
+    {
+      "id": "HLTHQ0ETT26000036",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Provision of Creative and Social Media Management Services to Ministry of Health (MOH)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=HLTHQ0ETT26000036&status=RELEASED&type=TT&OPPORTUNITY_ID=1000000000000544849&origin=rss",
+      "reference": null,
+      "agency": "Ministry of Health-Ministry Headquarter",
+      "published_at": "2026-09-03T16:00:00Z",
+      "closing_at": "2026-10-02T08:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-04T04:29:25Z",
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "TPO000ETQ26000108",
@@ -59,7 +76,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T11:11:11Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "HLTHQ0ETT26000034",
@@ -93,7 +110,41 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
+    },
+    {
+      "id": "LTA000EPQ26000004",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Pre-Qualification for PQ_TT815 - Integrated Payment Agent",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=LTA000EPQ26000004&status=RELEASED&type=PQ&OPPORTUNITY_ID=1000000000000544834&origin=rss",
+      "reference": null,
+      "agency": "Land Transport Authority",
+      "published_at": "2026-09-03T16:00:00Z",
+      "closing_at": "2026-09-28T08:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-04T04:29:25Z",
+      "last_seen_at": "2026-09-04T04:29:25Z"
+    },
+    {
+      "id": "CCYNYCETT26000015",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "INVITATION TO TENDER FOR THE PROVISION OF DESIGN AND FACILITATION EXPERTISE FOR A SERIES OF CIVIC CONVERSATIONS FOR A PERIOD OF FIVE (5) MONTHS, WITH OPTION TO EXTEND FOR ANOTHER YEAR",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=CCYNYCETT26000015&status=RELEASED&type=TT&OPPORTUNITY_ID=1000000000000544832&origin=rss",
+      "reference": null,
+      "agency": "Ministry of Culture, Community and Youth - National Youth Council",
+      "published_at": "2026-09-03T16:00:00Z",
+      "closing_at": "2026-09-28T08:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-04T04:29:25Z",
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "LTA000ETT26000091",
@@ -127,7 +178,26 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T11:11:11Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
+    },
+    {
+      "id": "EDB000ERF26000001",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Expression of Interest (EOI) for the Disciplinary of Quantity Surveying Consultancy Services for EDB Workplace at 250 North Bridge Road, Raffles City Tower, Singapore 179101. OIC: Brenda Yeo (PR20260927)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=EDB000ERF26000001&status=RELEASED&type=RF&OPPORTUNITY_ID=1000000000000544831&origin=rss",
+      "reference": null,
+      "agency": "Economic Development Board",
+      "published_at": "2026-09-03T16:00:00Z",
+      "closing_at": "2026-09-18T08:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "technical consultancy"
+      ],
+      "first_seen_at": "2026-09-04T04:29:25Z",
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "PAS000ETT26000080",
@@ -163,7 +233,7 @@
         "supply or maintenance"
       ],
       "first_seen_at": "2026-09-03T11:11:11Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "MOESCHETQ26003616",
@@ -180,7 +250,7 @@
         "supply or maintenance"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T23:16:04Z",
+      "last_seen_at": "2026-09-04T04:29:25Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -199,7 +269,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T04:20:43Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "MOESCHETQ26003657",
@@ -216,7 +286,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T04:20:43Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "MOESCHETQ26003633",
@@ -233,7 +303,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T04:20:43Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "MOE000ETQ26000214",
@@ -250,7 +320,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T11:11:11Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "MOESCHETQ26003681",
@@ -267,7 +337,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T11:11:11Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "RPO000ETQ26000091",
@@ -284,7 +354,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T21:00:34Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "CCYNYCETQ26000019",
@@ -301,7 +371,45 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T21:00:34Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
+    },
+    {
+      "id": "LTA000ETQ26000095",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Supply and Installation of Luggage Racks on 12 Buses",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=LTA000ETQ26000095&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000544870&origin=rss",
+      "reference": null,
+      "agency": "Land Transport Authority",
+      "published_at": "2026-09-03T16:00:00Z",
+      "closing_at": "2026-09-14T05:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "supply or maintenance"
+      ],
+      "first_seen_at": "2026-09-04T04:29:25Z",
+      "last_seen_at": "2026-09-04T04:29:25Z"
+    },
+    {
+      "id": "NPO000ETQ26000116",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "(FY26/SDO/018/ITQ) Provision of Coaching Services for Hockey Club - Men and Women (tentatively from 1 April 2027 - 31 Mar 2030)",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=NPO000ETQ26000116&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000544828&origin=rss",
+      "reference": null,
+      "agency": "Ngee Ann Polytechnic",
+      "published_at": "2026-09-03T16:00:00Z",
+      "closing_at": "2026-09-14T05:00:00Z",
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [
+        "training or sports"
+      ],
+      "first_seen_at": "2026-09-04T04:29:25Z",
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "NPO000ETQ26000111",
@@ -318,7 +426,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T23:16:04Z",
+      "last_seen_at": "2026-09-04T04:29:25Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -337,7 +445,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-02T03:36:32Z",
-      "last_seen_at": "2026-09-03T23:16:04Z",
+      "last_seen_at": "2026-09-04T04:29:25Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
     },
@@ -356,7 +464,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "MOESCHETQ26003608",
@@ -373,7 +481,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "MOESCHETQ26003605",
@@ -390,7 +498,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "MOESCHETQ26003604",
@@ -407,7 +515,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-02T11:15:05Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "MOESCHETQ26003430",
@@ -545,7 +653,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "renci:RC26MM06",
@@ -573,7 +681,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "renci:RC26MM04",
@@ -599,7 +707,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "renci:RC26MM02",
@@ -628,7 +736,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "renci:RC26MM03",
@@ -654,7 +762,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "renci:RC26MM01",
@@ -683,7 +791,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "renci:RC25MM06",
@@ -716,7 +824,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "renci:RC25MM05",
@@ -746,7 +854,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "renci:RC25MM04",
@@ -772,7 +880,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     },
     {
       "id": "renci:RC25MM03",
@@ -801,7 +909,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-03T23:16:04Z"
+      "last_seen_at": "2026-09-04T04:29:25Z"
     }
   ]
 }
