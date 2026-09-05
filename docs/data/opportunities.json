@@ -4,8 +4,8 @@
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_BO_FEED.xml",
     "https://www.renci.org.sg/notices-and-tenders/"
   ],
-  "feed_published": "Sun, 6 Sep 2026 01:00:20 +0800",
-  "generated_at": "2026-09-05T17:19:51Z",
+  "feed_published": "Sun, 6 Sep 2026 04:00:20 +0800",
+  "generated_at": "2026-09-05T20:18:30Z",
   "record_count": 46,
   "records": [
     {
@@ -42,7 +42,7 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-03T21:00:34Z",
-      "last_seen_at": "2026-09-05T17:19:51Z"
+      "last_seen_at": "2026-09-05T20:18:30Z"
     },
     {
       "id": "HLTHQ0ETT26000036",
@@ -59,7 +59,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-04T04:29:25Z",
-      "last_seen_at": "2026-09-05T17:19:51Z"
+      "last_seen_at": "2026-09-05T20:18:30Z"
     },
     {
       "id": "TPO000ETQ26000108",
@@ -127,7 +127,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-04T04:29:25Z",
-      "last_seen_at": "2026-09-05T17:19:51Z"
+      "last_seen_at": "2026-09-05T20:18:30Z"
     },
     {
       "id": "CCYNYCETT26000015",
@@ -144,7 +144,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-04T04:29:25Z",
-      "last_seen_at": "2026-09-05T17:19:51Z"
+      "last_seen_at": "2026-09-05T20:18:30Z"
     },
     {
       "id": "LTA000ETT26000091",
@@ -197,7 +197,7 @@
         "technical consultancy"
       ],
       "first_seen_at": "2026-09-04T04:29:25Z",
-      "last_seen_at": "2026-09-05T17:19:51Z"
+      "last_seen_at": "2026-09-05T20:18:30Z"
     },
     {
       "id": "PAS000ETT26000080",
@@ -234,7 +234,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-04T11:15:27Z",
-      "last_seen_at": "2026-09-05T17:19:51Z"
+      "last_seen_at": "2026-09-05T20:18:30Z"
     },
     {
       "id": "MOESCHETQ26003692",
@@ -374,7 +374,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T21:00:34Z",
-      "last_seen_at": "2026-09-05T17:19:51Z"
+      "last_seen_at": "2026-09-05T20:18:30Z"
     },
     {
       "id": "CCYNYCETQ26000019",
@@ -391,7 +391,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-03T21:00:34Z",
-      "last_seen_at": "2026-09-05T17:19:51Z"
+      "last_seen_at": "2026-09-05T20:18:30Z"
     },
     {
       "id": "LTA000ETQ26000095",
@@ -410,7 +410,7 @@
         "supply or maintenance"
       ],
       "first_seen_at": "2026-09-04T04:29:25Z",
-      "last_seen_at": "2026-09-05T17:19:51Z"
+      "last_seen_at": "2026-09-05T20:18:30Z"
     },
     {
       "id": "NPO000ETQ26000116",
@@ -429,7 +429,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-04T04:29:25Z",
-      "last_seen_at": "2026-09-05T17:19:51Z"
+      "last_seen_at": "2026-09-05T20:18:30Z"
     },
     {
       "id": "NPO000ETQ26000111",
@@ -673,7 +673,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-05T17:19:51Z"
+      "last_seen_at": "2026-09-05T20:18:30Z"
     },
     {
       "id": "renci:RC26MM06",
@@ -701,7 +701,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-05T17:19:51Z"
+      "last_seen_at": "2026-09-05T20:18:30Z"
     },
     {
       "id": "renci:RC26MM04",
@@ -727,7 +727,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-05T17:19:51Z"
+      "last_seen_at": "2026-09-05T20:18:30Z"
     },
     {
       "id": "renci:RC26MM02",
@@ -756,7 +756,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-05T17:19:51Z"
+      "last_seen_at": "2026-09-05T20:18:30Z"
     },
     {
       "id": "renci:RC26MM03",
@@ -782,7 +782,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-05T17:19:51Z"
+      "last_seen_at": "2026-09-05T20:18:30Z"
     },
     {
       "id": "renci:RC26MM01",
@@ -811,7 +811,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-05T17:19:51Z"
+      "last_seen_at": "2026-09-05T20:18:30Z"
     },
     {
       "id": "renci:RC25MM06",
@@ -844,7 +844,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-05T17:19:51Z"
+      "last_seen_at": "2026-09-05T20:18:30Z"
     },
     {
       "id": "renci:RC25MM05",
@@ -874,7 +874,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-05T17:19:51Z"
+      "last_seen_at": "2026-09-05T20:18:30Z"
     },
     {
       "id": "renci:RC25MM04",
@@ -900,7 +900,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-05T17:19:51Z"
+      "last_seen_at": "2026-09-05T20:18:30Z"
     },
     {
       "id": "renci:RC25MM03",
@@ -929,7 +929,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-05T17:19:51Z"
+      "last_seen_at": "2026-09-05T20:18:30Z"
     }
   ]
 }
