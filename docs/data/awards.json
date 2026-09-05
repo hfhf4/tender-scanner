@@ -4,7 +4,7 @@
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
   ],
   "feed_published": "Sun, 6 Sep 2026 00:35:41 +0800",
-  "generated_at": "2026-09-05T20:18:30Z",
+  "generated_at": "2026-09-05T22:53:38Z",
   "record_count": 21,
   "records": [
     {
@@ -20,7 +20,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-04T11:15:27Z",
-      "last_seen_at": "2026-09-05T20:18:30Z"
+      "last_seen_at": "2026-09-05T22:53:38Z"
     },
     {
       "id": "TRAHQ0ETT26000002",
@@ -35,7 +35,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-04T11:15:27Z",
-      "last_seen_at": "2026-09-05T20:18:30Z"
+      "last_seen_at": "2026-09-05T22:53:38Z"
     },
     {
       "id": "JUDSUPETQ26000002",
@@ -50,7 +50,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-04T11:15:27Z",
-      "last_seen_at": "2026-09-05T20:18:30Z"
+      "last_seen_at": "2026-09-05T22:53:38Z"
     },
     {
       "id": "SSC000ETT26000027",
@@ -67,7 +67,7 @@
         "training or sports"
       ],
       "first_seen_at": "2026-09-04T11:15:27Z",
-      "last_seen_at": "2026-09-05T20:18:30Z"
+      "last_seen_at": "2026-09-05T22:53:38Z"
     },
     {
       "id": "PUB000ETT26000050",
@@ -84,7 +84,7 @@
         "technology services"
       ],
       "first_seen_at": "2026-09-04T16:19:40Z",
-      "last_seen_at": "2026-09-05T20:18:30Z"
+      "last_seen_at": "2026-09-05T22:53:38Z"
     },
     {
       "id": "MOE000ETT26000040",
@@ -335,7 +335,7 @@
       "relevance": "low",
       "score_reasons": [],
       "first_seen_at": "2026-09-04T11:15:27Z",
-      "last_seen_at": "2026-09-05T20:18:30Z"
+      "last_seen_at": "2026-09-05T22:53:38Z"
     }
   ]
 }
