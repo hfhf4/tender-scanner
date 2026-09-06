@@ -4,9 +4,9 @@
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_BO_FEED.xml",
     "https://www.renci.org.sg/notices-and-tenders/"
   ],
-  "feed_published": "Sun, 6 Sep 2026 23:00:20 +0800",
-  "generated_at": "2026-09-06T15:26:44Z",
-  "record_count": 46,
+  "feed_published": "Mon, 7 Sep 2026 04:00:19 +0800",
+  "generated_at": "2026-09-06T20:22:43Z",
+  "record_count": 47,
   "records": [
     {
       "id": "LTA000ETT26000093",
@@ -673,7 +673,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-06T15:26:44Z"
+      "last_seen_at": "2026-09-06T20:22:43Z"
     },
     {
       "id": "renci:RC26MM06",
@@ -701,7 +701,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-06T15:26:44Z"
+      "last_seen_at": "2026-09-06T20:22:43Z"
     },
     {
       "id": "renci:RC26MM04",
@@ -727,7 +727,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-06T15:26:44Z"
+      "last_seen_at": "2026-09-06T20:22:43Z"
     },
     {
       "id": "renci:RC26MM02",
@@ -756,7 +756,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-06T15:26:44Z"
+      "last_seen_at": "2026-09-06T20:22:43Z"
     },
     {
       "id": "renci:RC26MM03",
@@ -782,7 +782,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-06T15:26:44Z"
+      "last_seen_at": "2026-09-06T20:22:43Z"
     },
     {
       "id": "renci:RC26MM01",
@@ -811,7 +811,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-06T15:26:44Z"
+      "last_seen_at": "2026-09-06T20:22:43Z"
     },
     {
       "id": "renci:RC25MM06",
@@ -844,7 +844,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-06T15:26:44Z"
+      "last_seen_at": "2026-09-06T20:22:43Z"
     },
     {
       "id": "renci:RC25MM05",
@@ -874,7 +874,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-06T15:26:44Z"
+      "last_seen_at": "2026-09-06T20:22:43Z"
     },
     {
       "id": "renci:RC25MM04",
@@ -900,7 +900,7 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-06T15:26:44Z"
+      "last_seen_at": "2026-09-06T20:22:43Z"
     },
     {
       "id": "renci:RC25MM03",
@@ -929,7 +929,24 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-06T15:26:44Z"
+      "last_seen_at": "2026-09-06T20:22:43Z"
+    },
+    {
+      "id": "06a2981bac323bcc2d60",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Untitled opportunity",
+      "url": "",
+      "reference": "There is no RSS feed available for this procurement category.",
+      "agency": "Agency not stated",
+      "published_at": null,
+      "closing_at": null,
+      "relevance_score": 0,
+      "relevance": "low",
+      "score_reasons": [],
+      "first_seen_at": "2026-09-06T20:22:43Z",
+      "last_seen_at": "2026-09-06T20:22:43Z"
     }
   ]
 }
