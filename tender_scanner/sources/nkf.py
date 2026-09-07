@@ -52,22 +52,22 @@ def _table_blocks(soup: BeautifulSoup):
         if fields.get("title"): yield fields, title_url
 
 
-def _stream_context(anchor, limit: int = 160) -> str:
-    """Collect the rendered record text following a title link.
+def _stream_context(anchor, limit: int = 180) -> str:
+    """Collect one rendered tender record following its title link.
 
-    NKF's WordPress markup is not a semantic table in the response served to
-    GitHub Actions. The visible page is nevertheless ordered Title -> Reference
-    -> Posting/Closing fields. Reading the following text nodes is more robust
-    than depending on a particular div/table wrapper.
+    NKF's response to GitHub Actions is not reliably wrapped in a semantic
+    table/card. Its visible order remains Title -> Reference -> fields, so we
+    follow text nodes until the next tender title *after* finding a reference.
     """
-    parts=[]
+    parts=[]; found_reference=False
     for string in anchor.find_all_next(string=True, limit=limit):
         text=" ".join(str(string).split())
         if not text: continue
-        if parts and TITLE_RE.search(text) and len(text) >= 12:
+        if found_reference and TITLE_RE.search(text) and len(text) >= 12:
             break
         parts.append(text)
-        if len(" ".join(parts)) >= 12000:
+        if REF_RE.search(text): found_reference=True
+        if len(" ".join(parts)) >= 14000:
             break
     return " ".join(parts)
 
@@ -83,8 +83,7 @@ def _fallback_blocks(soup: BeautifulSoup):
         seen.add(key)
         context=_stream_context(anchor)
         ref_match=REF_RE.search(context)
-        if not ref_match:
-            continue
+        if not ref_match: continue
         ref=ref_match.group(0)
         closing=""
         m=re.search(r"(?i)Closing Date\s*&?\s*Time\s*[:|]?\s*(.+?)(?=(?:Submission Requirements|RFP/ITQ Box|Compulsory Site Briefing|Registration of Interest|Eligibility Criteria|Title\s*[:|]|$))",context)
@@ -96,10 +95,8 @@ def _fallback_blocks(soup: BeautifulSoup):
 
 def _blocks(soup: BeautifulSoup):
     rows=list(_table_blocks(soup))
-    if rows:
-        yield from rows
-    else:
-        yield from _fallback_blocks(soup)
+    if rows: yield from rows
+    else: yield from _fallback_blocks(soup)
 
 
 def parse_page(html: bytes | str, kind: str, source_url: str, seen_at: str) -> list[dict]:
