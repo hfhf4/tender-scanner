@@ -1,10 +1,11 @@
 """National Kidney Foundation tender pages."""
 from __future__ import annotations
 import re
+import urllib.request
 from datetime import datetime, timezone
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
-from tender_scanner.common import SINGAPORE, fetch_http, iso, stable_id
+from tender_scanner.common import SINGAPORE, iso, stable_id
 from tender_scanner.scoring import enrich
 
 PAGES = {
@@ -13,10 +14,23 @@ PAGES = {
     "ITT": "https://nkfs.org/tender/invitation-to-tender/",
     "ITQ": "https://nkfs.org/tender/invitation-to-quote/",
 }
+BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
 DATE_RE = re.compile(r"\b(\d{1,2})\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+(20\d{2})\b", re.I)
 TIME_RE = re.compile(r"\b(\d{1,2})(?:[:.](\d{2}))?\s*(am|pm)\b", re.I)
-REF_RE = re.compile(r"\b20\d{6}\b")
+REF_RE = re.compile(r"\b(?:20\d{6}|(?:NKF/)?[A-Z]{1,8}(?:/[A-Z]{1,8})*/20\d{2}/\d{3})\b", re.I)
 TITLE_RE = re.compile(r"^(?:RFP|RFI|ITT|ITQ)\b|request for (?:proposal|information)|invitation to (?:tender|quote)", re.I)
+
+
+def _fetch_page(url: str) -> bytes:
+    request = urllib.request.Request(url, headers={
+        "User-Agent": BROWSER_UA,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-SG,en;q=0.9",
+        "Accept-Encoding": "identity",
+        "Cache-Control": "no-cache",
+    })
+    with urllib.request.urlopen(request, timeout=30) as response:
+        return response.read()
 
 
 def _parse_deadline(text: str) -> datetime | None:
@@ -53,12 +67,6 @@ def _table_blocks(soup: BeautifulSoup):
 
 
 def _stream_context(anchor, limit: int = 180) -> str:
-    """Collect one rendered tender record following its title link.
-
-    NKF's response to GitHub Actions is not reliably wrapped in a semantic
-    table/card. Its visible order remains Title -> Reference -> fields, so we
-    follow text nodes until the next tender title *after* finding a reference.
-    """
     parts=[]; found_reference=False
     for string in anchor.find_all_next(string=True, limit=limit):
         text=" ".join(str(string).split())
@@ -67,8 +75,7 @@ def _stream_context(anchor, limit: int = 180) -> str:
             break
         parts.append(text)
         if REF_RE.search(text): found_reference=True
-        if len(" ".join(parts)) >= 14000:
-            break
+        if len(" ".join(parts)) >= 14000: break
     return " ".join(parts)
 
 
@@ -86,9 +93,9 @@ def _fallback_blocks(soup: BeautifulSoup):
         if not ref_match: continue
         ref=ref_match.group(0)
         closing=""
-        m=re.search(r"(?i)Closing Date\s*&?\s*Time\s*[:|]?\s*(.+?)(?=(?:Submission Requirements|RFP/ITQ Box|Compulsory Site Briefing|Registration of Interest|Eligibility Criteria|Title\s*[:|]|$))",context)
+        m=re.search(r"(?i)Closing Date\s*&?\s*Time\s*[:|]?\s*(.+?)(?=(?:Submission Requirements|RFP/ITQ Box|ITQ/RFP Box|Compulsory Site Briefing|Registration of Interest|Eligibility Criteria|Title\s*[:|]|$))",context)
         if not m:
-            m=re.search(r"(?i)Closing Date\s*[:|]?\s*(.+?)(?=(?:Submission Requirements|RFP/ITQ Box|Compulsory Site Briefing|Registration of Interest|Eligibility Criteria|Title\s*[:|]|$))",context)
+            m=re.search(r"(?i)Closing Date\s*[:|]?\s*(.+?)(?=(?:Submission Requirements|RFP/ITQ Box|ITQ/RFP Box|Compulsory Site Briefing|Registration of Interest|Eligibility Criteria|Title\s*[:|]|$))",context)
         if m: closing=m.group(1).strip()
         yield {"title":title,"reference no":ref,"closing date & time":closing,"_context":context}, href
 
@@ -121,12 +128,16 @@ def parse_page(html: bytes | str, kind: str, source_url: str, seen_at: str) -> l
 
 
 def scan(seen_at: str) -> list[dict]:
-    records=[]
+    records=[]; diagnostics=[]
     for kind,url in PAGES.items():
         try:
-            payload,_=fetch_http(url,accept="text/html,application/xhtml+xml",attempts=2,timeout=30)
-            records.extend(parse_page(payload,kind,url,seen_at))
-        except Exception:
-            continue
-    if not records: raise ValueError("No NKF procurement records found; page structure may have changed")
+            payload=_fetch_page(url)
+            parsed=parse_page(payload,kind,url,seen_at)
+            records.extend(parsed)
+            text=payload.decode("utf-8", errors="ignore")
+            diagnostics.append(f"{kind}:{len(payload)}B records={len(parsed)} ref_label={'Reference No' in text} title_label={'Title' in text}")
+        except Exception as exc:
+            diagnostics.append(f"{kind}:error={type(exc).__name__}")
+    if not records:
+        raise ValueError("No NKF procurement records found; " + "; ".join(diagnostics))
     return list({r["id"]:r for r in records}.values())
