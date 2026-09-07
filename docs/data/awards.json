@@ -3,7 +3,7 @@
   "source_urls": [
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
   ],
-  "generated_at": "2026-09-07T04:37:01Z",
+  "generated_at": "2026-09-07T12:28:11Z",
   "record_count": 23,
   "records": [
     {
@@ -363,7 +363,7 @@
       "award_summary": "There is no RSS feed available for this procurement category.",
       "awarded_at": null,
       "first_seen_at": "2026-09-07T04:15:45Z",
-      "last_seen_at": "2026-09-07T04:37:01Z",
+      "last_seen_at": "2026-09-07T12:28:11Z",
       "legal_relevance_score": 0,
       "relevance_score": 0,
       "relevance": "low",
