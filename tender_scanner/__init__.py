@@ -1,0 +1,1 @@
+"""Singapore Tender Radar package."""
