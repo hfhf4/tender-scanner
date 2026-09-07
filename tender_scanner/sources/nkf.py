@@ -1,6 +1,8 @@
 """National Kidney Foundation tender pages."""
 from __future__ import annotations
 import re
+import shutil
+import subprocess
 import urllib.request
 from datetime import datetime, timezone
 from urllib.parse import urljoin
@@ -31,6 +33,43 @@ def _fetch_page(url: str) -> bytes:
     })
     with urllib.request.urlopen(request, timeout=30) as response:
         return response.read()
+
+
+def _browser_executable() -> str | None:
+    for candidate in ("google-chrome", "google-chrome-stable", "chromium", "chromium-browser"):
+        path = shutil.which(candidate)
+        if path:
+            return path
+    return None
+
+
+def _fetch_rendered_page(url: str) -> bytes:
+    browser = _browser_executable()
+    if not browser:
+        raise RuntimeError("No Chrome/Chromium executable available")
+    command = [
+        browser,
+        "--headless=new",
+        "--no-sandbox",
+        "--disable-dev-shm-usage",
+        "--disable-gpu",
+        "--hide-scrollbars",
+        "--virtual-time-budget=7000",
+        f"--user-agent={BROWSER_UA}",
+        "--dump-dom",
+        url,
+    ]
+    completed = subprocess.run(
+        command,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+        timeout=45,
+        check=False,
+    )
+    if completed.returncode != 0 or not completed.stdout.strip():
+        stderr = completed.stderr.decode("utf-8", errors="ignore")[-500:]
+        raise RuntimeError(f"Headless browser failed ({completed.returncode}): {stderr}")
+    return completed.stdout
 
 
 def _parse_deadline(text: str) -> datetime | None:
@@ -133,11 +172,16 @@ def scan(seen_at: str) -> list[dict]:
         try:
             payload=_fetch_page(url)
             parsed=parse_page(payload,kind,url,seen_at)
+            method="http"
+            if not parsed:
+                payload=_fetch_rendered_page(url)
+                parsed=parse_page(payload,kind,url,seen_at)
+                method="chrome"
             records.extend(parsed)
             text=payload.decode("utf-8", errors="ignore")
-            diagnostics.append(f"{kind}:{len(payload)}B records={len(parsed)} ref_label={'Reference No' in text} title_label={'Title' in text}")
+            diagnostics.append(f"{kind}:{method}:{len(payload)}B records={len(parsed)} ref_label={'Reference No' in text} title_label={'Title' in text}")
         except Exception as exc:
-            diagnostics.append(f"{kind}:error={type(exc).__name__}")
+            diagnostics.append(f"{kind}:error={type(exc).__name__}:{str(exc)[:180]}")
     if not records:
         raise ValueError("No NKF procurement records found; " + "; ".join(diagnostics))
     return list({r["id"]:r for r in records}.values())
