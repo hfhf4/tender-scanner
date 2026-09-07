@@ -19,8 +19,16 @@ PAGES = {
 BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
 DATE_RE = re.compile(r"\b(\d{1,2})\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+(20\d{2})\b", re.I)
 TIME_RE = re.compile(r"\b(\d{1,2})(?:[:.](\d{2}))?\s*(am|pm)\b", re.I)
+MIL_TIME_RE = re.compile(r"\b([01]\d|2[0-3])([0-5]\d)\s*(?:hrs?|hours?)\b", re.I)
 REF_RE = re.compile(r"\b(?:20\d{6}|(?:NKF/)?[A-Z]{1,8}(?:/[A-Z]{1,8})*/20\d{2}/\d{3})\b", re.I)
 TITLE_RE = re.compile(r"^(?:RFP|RFI|ITT|ITQ)\b|request for (?:proposal|information)|invitation to (?:tender|quote)", re.I)
+DEADLINE_MARKERS = (
+    r"\bdelivered\s+by\b",
+    r"\bsubmit(?:ted)?\s+by\b",
+    r"\bclosing\s+date(?:\s*&\s*time)?\b",
+    r"\bclosing\s+date\b",
+    r"\bdeadline\b",
+)
 
 
 def _fetch_page(url: str) -> bytes:
@@ -59,32 +67,40 @@ def _fetch_rendered_page(url: str) -> bytes:
         "--dump-dom",
         url,
     ]
-    completed = subprocess.run(
-        command,
-        stdout=subprocess.PIPE,
-        stderr=subprocess.PIPE,
-        timeout=45,
-        check=False,
-    )
+    completed = subprocess.run(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=45, check=False)
     if completed.returncode != 0 or not completed.stdout.strip():
         stderr = completed.stderr.decode("utf-8", errors="ignore")[-500:]
         raise RuntimeError(f"Headless browser failed ({completed.returncode}): {stderr}")
     return completed.stdout
 
 
+def _deadline_segment(text: str) -> str:
+    normalized = " ".join((text or "").split())
+    for pattern in DEADLINE_MARKERS:
+        marker = re.search(pattern, normalized, re.I)
+        if marker:
+            return normalized[max(0, marker.start() - 60):marker.start() + 320]
+    return normalized
+
+
 def _parse_deadline(text: str) -> datetime | None:
-    text = " ".join((text or "").split())
-    m = DATE_RE.search(text)
+    segment = _deadline_segment(text)
+    m = DATE_RE.search(segment)
     if not m:
         return None
     try:
         d = datetime.strptime(f"{m.group(1)} {m.group(2)} {m.group(3)}", "%d %B %Y")
     except ValueError:
         return None
-    tm = TIME_RE.search(text[max(0, m.start() - 70):m.end() + 90])
+
+    window = segment[max(0, m.start() - 120):m.end() + 100]
     h, minute = 23, 59
-    if tm:
-        h = int(tm.group(1)); minute = int(tm.group(2) or 0); mer = tm.group(3).lower()
+    military = MIL_TIME_RE.search(window)
+    twelve_hour = TIME_RE.search(window)
+    if military:
+        h, minute = int(military.group(1)), int(military.group(2))
+    elif twelve_hour:
+        h = int(twelve_hour.group(1)); minute = int(twelve_hour.group(2) or 0); mer = twelve_hour.group(3).lower()
         if mer == "pm" and h != 12: h += 12
         if mer == "am" and h == 12: h = 0
     return d.replace(hour=h, minute=minute, tzinfo=SINGAPORE).astimezone(timezone.utc)
@@ -156,10 +172,11 @@ def parse_page(html: bytes | str, kind: str, source_url: str, seen_at: str) -> l
         closing=fields.get("closing date & time") or fields.get("closing date") or ""
         tender_url=urljoin(source_url,href) if href else source_url
         context=fields.get("_context") or " ".join(str(v or "") for v in fields.values())
+        deadline_text = closing or context
         record={
             "id":f"nkf:{ref}" if ref else stable_id("nkf",kind,title),"kind":"opportunity","source":"National Kidney Foundation","source_key":"nkf",
             "title":title,"tender_url":tender_url,"source_url":source_url,"url":tender_url,"reference":ref,"agency":"National Kidney Foundation",
-            "published_at":None,"closing_at":iso(_parse_deadline(closing)),"listed_on_source":True,"category":kind,
+            "published_at":None,"closing_at":iso(_parse_deadline(deadline_text)),"listed_on_source":True,"category":kind,
             "summary":closing[:700] if closing else None,"first_seen_at":seen_at,"last_seen_at":seen_at,
         }
         records.append(enrich(record,context))
