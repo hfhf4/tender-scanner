@@ -3,9 +3,8 @@
   "source_urls": [
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
   ],
-  "feed_published": "Mon, 7 Sep 2026 00:35:37 +0800",
-  "generated_at": "2026-09-06T22:53:10Z",
-  "record_count": 22,
+  "generated_at": "2026-09-07T04:15:45Z",
+  "record_count": 23,
   "records": [
     {
       "id": "ESG000ETT26000008",
@@ -351,6 +350,28 @@
       "score_reasons": [],
       "first_seen_at": "2026-09-06T20:22:43Z",
       "last_seen_at": "2026-09-06T22:53:10Z"
+    },
+    {
+      "id": "gebiz:0c4ddbb94bc8f7db4749",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Untitled award",
+      "tender_url": "",
+      "source_url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml",
+      "url": "",
+      "award_summary": "There is no RSS feed available for this procurement category.",
+      "awarded_at": null,
+      "first_seen_at": "2026-09-07T04:15:45Z",
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [],
+      "healthcare_reasons": []
     }
   ]
 }

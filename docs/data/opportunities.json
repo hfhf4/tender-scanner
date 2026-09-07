@@ -2,12 +2,38 @@
   "source": "Singapore Tender Radar",
   "source_urls": [
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_BO_FEED.xml",
-    "https://www.renci.org.sg/notices-and-tenders/"
+    "https://www.renci.org.sg/notices-and-tenders/",
+    "https://www.alpshealthcare.com.sg/strategic-procurement/national-sourcing-events/",
+    "https://nkfs.org/tender/request-for-information/request-for-proposals/"
   ],
-  "feed_published": "Mon, 7 Sep 2026 06:00:20 +0800",
-  "generated_at": "2026-09-06T22:53:10Z",
-  "record_count": 47,
+  "generated_at": "2026-09-07T04:15:45Z",
+  "record_count": 64,
   "records": [
+    {
+      "id": "TRAHQ0ETT26000003",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "MTI launched a selective tender on 31 October 2025 comprising two stages. The Pre-Qualification (Stage 1) was completed, and Tenderers who have been pre-qualified under Stage 1 are now invited to participate in this Invitation to Tender (Stage 2). Please note that MTI will be renamed to the Ministry of Energy, Trade and Industry (METI) with effect from 1 October 2026.",
+      "tender_url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=TRAHQ0ETT26000003&status=RELEASED&type=TT&OPPORTUNITY_ID=1000000000000545035&origin=rss",
+      "source_url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_BO_FEED.xml",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=TRAHQ0ETT26000003&status=RELEASED&type=TT&OPPORTUNITY_ID=1000000000000545035&origin=rss",
+      "reference": null,
+      "agency": "Ministry of Trade & Industry-Ministry Headquarter",
+      "published_at": "2026-09-06T16:00:00Z",
+      "closing_at": "2026-10-07T08:00:00Z",
+      "listed_on_source": true,
+      "first_seen_at": "2026-09-07T04:15:45Z",
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [],
+      "healthcare_reasons": []
+    },
     {
       "id": "LTA000ETT26000093",
       "kind": "opportunity",
@@ -181,6 +207,35 @@
       "last_seen_at": "2026-09-05T15:11:32Z"
     },
     {
+      "id": "IPO000ETT26000006",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "SUPPLY OF WORK INJURY COMPENSATION INSURANCE",
+      "tender_url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=IPO000ETT26000006&status=RELEASED&type=TT&OPPORTUNITY_ID=1000000000000545031&origin=rss",
+      "source_url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_BO_FEED.xml",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=IPO000ETT26000006&status=RELEASED&type=TT&OPPORTUNITY_ID=1000000000000545031&origin=rss",
+      "reference": null,
+      "agency": "Intellectual Property Office of Singapore",
+      "published_at": "2026-09-06T16:00:00Z",
+      "closing_at": "2026-09-21T08:00:00Z",
+      "listed_on_source": true,
+      "first_seen_at": "2026-09-07T04:15:45Z",
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "legal_relevance_score": 32,
+      "relevance_score": 32,
+      "relevance": "review",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [
+        "Intellectual Property"
+      ],
+      "score_reasons": [
+        "intellectual property"
+      ],
+      "healthcare_reasons": []
+    },
+    {
       "id": "EDB000ERF26000001",
       "kind": "opportunity",
       "source": "GeBIZ",
@@ -254,6 +309,56 @@
       ],
       "first_seen_at": "2026-09-03T11:11:11Z",
       "last_seen_at": "2026-09-05T15:11:32Z"
+    },
+    {
+      "id": "NPO000ETQ26000117",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "(FY26/EES/016/ITQ) Provision of consultancy & training services for NP's Scope 3 GHG emissions measurement and staff capabilities building",
+      "tender_url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=NPO000ETQ26000117&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000545039&origin=rss",
+      "source_url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_BO_FEED.xml",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=NPO000ETQ26000117&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000545039&origin=rss",
+      "reference": null,
+      "agency": "Ngee Ann Polytechnic",
+      "published_at": "2026-09-06T16:00:00Z",
+      "closing_at": "2026-09-16T05:00:00Z",
+      "listed_on_source": true,
+      "first_seen_at": "2026-09-07T04:15:45Z",
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [],
+      "healthcare_reasons": []
+    },
+    {
+      "id": "RPO000ETQ26000089",
+      "kind": "opportunity",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Quotation for the provision of Tennis Trainer (Mixed) for 2 years with an option to extend for up to 1 more year for OSG",
+      "tender_url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=RPO000ETQ26000089&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000545025&origin=rss",
+      "source_url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_BO_FEED.xml",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=RPO000ETQ26000089&status=RELEASED&type=TQ&OPPORTUNITY_ID=1000000000000545025&origin=rss",
+      "reference": null,
+      "agency": "Republic Polytechnic",
+      "published_at": "2026-09-06T16:00:00Z",
+      "closing_at": "2026-09-16T05:00:00Z",
+      "listed_on_source": true,
+      "first_seen_at": "2026-09-07T04:15:45Z",
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [],
+      "healthcare_reasons": []
     },
     {
       "id": "MOESCHETQ26003616",
@@ -655,7 +760,7 @@
       "source": "Ren Ci Hospital",
       "source_key": "renci",
       "title": "PROVISION OF FOOD SERVICES FOR REN CI HOSPITAL",
-      "url": "https://www.renci.org.sg/notices-and-tenders/",
+      "url": "https://www.renci.org.sg/wp-content/uploads/2026/08/RFP-Notice-RC26MM08.pdf",
       "document_url": "https://www.renci.org.sg/wp-content/uploads/2026/08/RFP-Notice-RC26MM08.pdf",
       "attachments": [],
       "reference": "RC26MM08",
@@ -673,7 +778,19 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-06T22:53:10Z"
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "tender_url": "https://www.renci.org.sg/wp-content/uploads/2026/08/RFP-Notice-RC26MM08.pdf",
+      "source_url": "https://www.renci.org.sg/notices-and-tenders/",
+      "legal_relevance_score": 0,
+      "healthcare_relevance_score": 100,
+      "sector": "Healthcare",
+      "practice_areas": [
+        "Corporate / Commercial"
+      ],
+      "healthcare_reasons": [
+        "healthcare institution",
+        "community care"
+      ]
     },
     {
       "id": "renci:RC26MM06",
@@ -681,7 +798,7 @@
       "source": "Ren Ci Hospital",
       "source_key": "renci",
       "title": "REPLACEMENT OF AUDIO-VISUAL EQUIPMENT AT REN CI COMMUNITY HOSPITAL MULTI-PURPOSE HALL",
-      "url": "https://www.renci.org.sg/notices-and-tenders/",
+      "url": "https://www.renci.org.sg/wp-content/uploads/2026/06/RFP-Notice-RC26MM06.pdf",
       "document_url": "https://www.renci.org.sg/wp-content/uploads/2026/06/RFP-Notice-RC26MM06.pdf",
       "attachments": [],
       "reference": "RC26MM06",
@@ -691,9 +808,7 @@
       "deadline_precision": "datetime",
       "relevance_score": 0,
       "relevance": "low",
-      "score_reasons": [
-        "technical consultancy"
-      ],
+      "score_reasons": [],
       "listing_fingerprint": "d42495c3411facd50ca448b6294a28de28dc5ffbf9bd59b6aeb6e7752bfabceb",
       "document_sha256": "606f1c7014972f9a9bde51710e3ec068d996d99448a635bdbd6cddfa6ceec4a6",
       "document_etag": "\"1a719-653791fc4444c\"",
@@ -701,7 +816,16 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-06T22:53:10Z"
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "tender_url": "https://www.renci.org.sg/wp-content/uploads/2026/06/RFP-Notice-RC26MM06.pdf",
+      "source_url": "https://www.renci.org.sg/notices-and-tenders/",
+      "legal_relevance_score": 0,
+      "healthcare_relevance_score": 80,
+      "sector": "Healthcare",
+      "practice_areas": [],
+      "healthcare_reasons": [
+        "healthcare institution"
+      ]
     },
     {
       "id": "renci:RC26MM04",
@@ -709,7 +833,7 @@
       "source": "Ren Ci Hospital",
       "source_key": "renci",
       "title": "PROVISION OF INTERNAL AUDIT/ CONTROLS SELF-ASSESSMENT PROFESSIONAL SERVICES FOR REN CI HOSPITAL",
-      "url": "https://www.renci.org.sg/notices-and-tenders/",
+      "url": "https://www.renci.org.sg/wp-content/uploads/2026/04/RFP-Notice-RC26MM04.pdf",
       "document_url": "https://www.renci.org.sg/wp-content/uploads/2026/04/RFP-Notice-RC26MM04.pdf",
       "attachments": [],
       "reference": "RC26MM04",
@@ -717,9 +841,11 @@
       "published_at": null,
       "closing_at": "2026-04-14T04:00:00Z",
       "deadline_precision": "datetime",
-      "relevance_score": 0,
+      "relevance_score": 22,
       "relevance": "low",
-      "score_reasons": [],
+      "score_reasons": [
+        "assurance/governance"
+      ],
       "listing_fingerprint": "b775f86e6ecd8c1584775438126d211e1696ed1d64bde618faf372b1eee46326",
       "document_sha256": "22b26fdea909753e979ae6d164758e370fff95e0f3dc2b9e2d853fc6c27185f8",
       "document_etag": "\"204c4-64ed964dfde38\"",
@@ -727,7 +853,20 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-06T22:53:10Z"
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "tender_url": "https://www.renci.org.sg/wp-content/uploads/2026/04/RFP-Notice-RC26MM04.pdf",
+      "source_url": "https://www.renci.org.sg/notices-and-tenders/",
+      "legal_relevance_score": 22,
+      "healthcare_relevance_score": 100,
+      "sector": "Healthcare",
+      "practice_areas": [
+        "Regulatory / Compliance",
+        "Governance / Risk"
+      ],
+      "healthcare_reasons": [
+        "healthcare institution",
+        "community care"
+      ]
     },
     {
       "id": "renci:RC26MM02",
@@ -735,7 +874,7 @@
       "source": "Ren Ci Hospital",
       "source_key": "renci",
       "title": "PROVISION OF AIR-CONDITIONING AND MECHANICAL VENTILATION (ACMV) PREVENTIVE MAINTENANCE FOR REN CI HOSPITAL",
-      "url": "https://www.renci.org.sg/notices-and-tenders/",
+      "url": "https://www.renci.org.sg/wp-content/uploads/2026/04/RFP-NOTICE-RC26MM02.pdf",
       "document_url": "https://www.renci.org.sg/wp-content/uploads/2026/04/RFP-NOTICE-RC26MM02.pdf",
       "attachments": [],
       "reference": "RC26MM02",
@@ -746,7 +885,6 @@
       "relevance_score": 0,
       "relevance": "low",
       "score_reasons": [
-        "technical consultancy",
         "supply or maintenance"
       ],
       "listing_fingerprint": "fbbcf51d37ac2ea491d04da0025f786e2687663822a260161fceaaa4cb65779a",
@@ -756,7 +894,18 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-06T22:53:10Z"
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "tender_url": "https://www.renci.org.sg/wp-content/uploads/2026/04/RFP-NOTICE-RC26MM02.pdf",
+      "source_url": "https://www.renci.org.sg/notices-and-tenders/",
+      "legal_relevance_score": 0,
+      "healthcare_relevance_score": 80,
+      "sector": "Healthcare",
+      "practice_areas": [
+        "Corporate / Commercial"
+      ],
+      "healthcare_reasons": [
+        "healthcare institution"
+      ]
     },
     {
       "id": "renci:RC26MM03",
@@ -764,7 +913,7 @@
       "source": "Ren Ci Hospital",
       "source_key": "renci",
       "title": "PROVISION OF LINEN LEASING AND LAUNDRY SERVICES FOR REN CI HOSPITAL",
-      "url": "https://www.renci.org.sg/notices-and-tenders/",
+      "url": "https://www.renci.org.sg/wp-content/uploads/2026/02/RFP-NOTICE-RC26MM03.pdf",
       "document_url": "https://www.renci.org.sg/wp-content/uploads/2026/02/RFP-NOTICE-RC26MM03.pdf",
       "attachments": [],
       "reference": "RC26MM03",
@@ -782,7 +931,19 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-06T22:53:10Z"
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "tender_url": "https://www.renci.org.sg/wp-content/uploads/2026/02/RFP-NOTICE-RC26MM03.pdf",
+      "source_url": "https://www.renci.org.sg/notices-and-tenders/",
+      "legal_relevance_score": 0,
+      "healthcare_relevance_score": 100,
+      "sector": "Healthcare",
+      "practice_areas": [
+        "Corporate / Commercial"
+      ],
+      "healthcare_reasons": [
+        "healthcare institution",
+        "community care"
+      ]
     },
     {
       "id": "renci:RC26MM01",
@@ -790,7 +951,7 @@
       "source": "Ren Ci Hospital",
       "source_key": "renci",
       "title": "PROVISION OF CYCLICAL MAINTENANCE WORKS FOR REN CI @ ANG MO KIO",
-      "url": "https://www.renci.org.sg/notices-and-tenders/",
+      "url": "https://www.renci.org.sg/wp-content/uploads/2026/01/RFP-Notice-RC26MM01-R1.pdf",
       "document_url": "https://www.renci.org.sg/wp-content/uploads/2026/01/RFP-Notice-RC26MM01-R1.pdf",
       "attachments": [],
       "reference": "RC26MM01",
@@ -801,7 +962,6 @@
       "relevance_score": 0,
       "relevance": "low",
       "score_reasons": [
-        "technical consultancy",
         "supply or maintenance"
       ],
       "listing_fingerprint": "7bd9c948a8e43f5cb5f720097cf4bc63e19f93cf10c1adbc6d6f2233776bef85",
@@ -811,7 +971,16 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-06T22:53:10Z"
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "tender_url": "https://www.renci.org.sg/wp-content/uploads/2026/01/RFP-Notice-RC26MM01-R1.pdf",
+      "source_url": "https://www.renci.org.sg/notices-and-tenders/",
+      "legal_relevance_score": 0,
+      "healthcare_relevance_score": 80,
+      "sector": "Healthcare",
+      "practice_areas": [],
+      "healthcare_reasons": [
+        "healthcare institution"
+      ]
     },
     {
       "id": "renci:RC25MM06",
@@ -819,7 +988,7 @@
       "source": "Ren Ci Hospital",
       "source_key": "renci",
       "title": "PROVISION OF CLIENT MANAGEMENT SYSTEM FOR REN CI SENIOR CARE CENTRES",
-      "url": "https://www.renci.org.sg/notices-and-tenders/",
+      "url": "https://www.renci.org.sg/wp-content/uploads/2025/10/RFP-Notice-RC25MM06.pdf",
       "document_url": "https://www.renci.org.sg/wp-content/uploads/2025/10/RFP-Notice-RC25MM06.pdf",
       "attachments": [
         "https://www.renci.org.sg/wp-content/uploads/2025/10/NDA-for-RC25MM06.pdf"
@@ -833,6 +1002,7 @@
       "relevance": "low",
       "score_reasons": [
         "data protection",
+        "investigations",
         "technology services",
         "supply or maintenance",
         "medical service"
@@ -844,7 +1014,22 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-06T22:53:10Z"
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "tender_url": "https://www.renci.org.sg/wp-content/uploads/2025/10/RFP-Notice-RC25MM06.pdf",
+      "source_url": "https://www.renci.org.sg/notices-and-tenders/",
+      "legal_relevance_score": 0,
+      "healthcare_relevance_score": 100,
+      "sector": "Healthcare",
+      "practice_areas": [
+        "Data Protection / Privacy",
+        "Regulatory / Compliance",
+        "Corporate / Commercial"
+      ],
+      "healthcare_reasons": [
+        "healthcare institution",
+        "community care",
+        "healthcare agency"
+      ]
     },
     {
       "id": "renci:RC25MM05",
@@ -852,7 +1037,7 @@
       "source": "Ren Ci Hospital",
       "source_key": "renci",
       "title": "PROVISION AND INSTALLATION OF ABSCONDMENT WARNING SYSTEM FOR REN CI @ANG MO KIO & REN CI @ BUKIT BATOK ST 52",
-      "url": "https://www.renci.org.sg/notices-and-tenders/",
+      "url": "https://www.renci.org.sg/wp-content/uploads/2025/07/RFP-Notice-RC25MM05.pdf",
       "document_url": "https://www.renci.org.sg/wp-content/uploads/2025/07/RFP-Notice-RC25MM05.pdf",
       "attachments": [],
       "reference": "RC25MM05",
@@ -874,7 +1059,18 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-06T22:53:10Z"
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "tender_url": "https://www.renci.org.sg/wp-content/uploads/2025/07/RFP-Notice-RC25MM05.pdf",
+      "source_url": "https://www.renci.org.sg/notices-and-tenders/",
+      "legal_relevance_score": 0,
+      "healthcare_relevance_score": 80,
+      "sector": "Healthcare",
+      "practice_areas": [
+        "Data Protection / Privacy"
+      ],
+      "healthcare_reasons": [
+        "healthcare institution"
+      ]
     },
     {
       "id": "renci:RC25MM04",
@@ -882,7 +1078,7 @@
       "source": "Ren Ci Hospital",
       "source_key": "renci",
       "title": "PROVISION OF LAUNDRY EQUIPMENT SETUP FOR REN CI @ ANG MO KIO",
-      "url": "https://www.renci.org.sg/notices-and-tenders/",
+      "url": "https://www.renci.org.sg/wp-content/uploads/2025/05/RFP-Notice-RC25MM04.pdf",
       "document_url": "https://www.renci.org.sg/wp-content/uploads/2025/05/RFP-Notice-RC25MM04.pdf",
       "attachments": [],
       "reference": "RC25MM04",
@@ -900,7 +1096,17 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-06T22:53:10Z"
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "tender_url": "https://www.renci.org.sg/wp-content/uploads/2025/05/RFP-Notice-RC25MM04.pdf",
+      "source_url": "https://www.renci.org.sg/notices-and-tenders/",
+      "legal_relevance_score": 0,
+      "healthcare_relevance_score": 100,
+      "sector": "Healthcare",
+      "practice_areas": [],
+      "healthcare_reasons": [
+        "healthcare institution",
+        "community care"
+      ]
     },
     {
       "id": "renci:RC25MM03",
@@ -908,7 +1114,7 @@
       "source": "Ren Ci Hospital",
       "source_key": "renci",
       "title": "PROVISION AND INSTALLATION OF SOLAR PHOTOVOLTAIC SYSTEM AT REN CI @ ANG MO KIO",
-      "url": "https://www.renci.org.sg/notices-and-tenders/",
+      "url": "https://www.renci.org.sg/wp-content/uploads/2025/05/RFP-Notice-RC25MM03-1.pdf",
       "document_url": "https://www.renci.org.sg/wp-content/uploads/2025/05/RFP-Notice-RC25MM03-1.pdf",
       "attachments": [],
       "reference": "RC25MM03",
@@ -919,7 +1125,6 @@
       "relevance_score": 0,
       "relevance": "low",
       "score_reasons": [
-        "technical consultancy",
         "supply or maintenance"
       ],
       "listing_fingerprint": "7581c288fb5c84f276144db0b173f230794d1adedc8735aa22477b86d4602d8c",
@@ -929,7 +1134,17 @@
       "listed_on_source": true,
       "scan_warning": null,
       "first_seen_at": "2026-09-02T04:23:29Z",
-      "last_seen_at": "2026-09-06T22:53:10Z"
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "tender_url": "https://www.renci.org.sg/wp-content/uploads/2025/05/RFP-Notice-RC25MM03-1.pdf",
+      "source_url": "https://www.renci.org.sg/notices-and-tenders/",
+      "legal_relevance_score": 0,
+      "healthcare_relevance_score": 100,
+      "sector": "Healthcare",
+      "practice_areas": [],
+      "healthcare_reasons": [
+        "healthcare institution",
+        "community care"
+      ]
     },
     {
       "id": "06a2981bac323bcc2d60",
@@ -947,6 +1162,398 @@
       "score_reasons": [],
       "first_seen_at": "2026-09-06T20:22:43Z",
       "last_seen_at": "2026-09-06T22:53:10Z"
+    },
+    {
+      "id": "alps:8c84997fab9db032bc9f",
+      "kind": "opportunity",
+      "source": "ALPS Healthcare",
+      "source_key": "alps",
+      "title": "Spine Implants",
+      "tender_url": "https://supplier.ariba.com/",
+      "source_url": "https://www.alpshealthcare.com.sg/strategic-procurement/national-sourcing-events/",
+      "url": "https://supplier.ariba.com/",
+      "reference": null,
+      "agency": "ALPS Healthcare",
+      "published_at": null,
+      "closing_at": null,
+      "listed_on_source": true,
+      "category": "Medical Supplies",
+      "source_period": "2026-09",
+      "summary": "Medical Supplies. Scheduled national sourcing event; final RFP details are available through SAP Business Network.",
+      "first_seen_at": "2026-09-07T04:15:45Z",
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [
+        "technology services"
+      ],
+      "healthcare_reasons": []
+    },
+    {
+      "id": "alps:ec1c16ae4b0592ddd036",
+      "kind": "opportunity",
+      "source": "ALPS Healthcare",
+      "source_key": "alps",
+      "title": "Spine Endoscopy",
+      "tender_url": "https://supplier.ariba.com/",
+      "source_url": "https://www.alpshealthcare.com.sg/strategic-procurement/national-sourcing-events/",
+      "url": "https://supplier.ariba.com/",
+      "reference": null,
+      "agency": "ALPS Healthcare",
+      "published_at": null,
+      "closing_at": null,
+      "listed_on_source": true,
+      "category": "Medical Supplies",
+      "source_period": "2026-09",
+      "summary": "Medical Supplies. Scheduled national sourcing event; final RFP details are available through SAP Business Network.",
+      "first_seen_at": "2026-09-07T04:15:45Z",
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [
+        "technology services"
+      ],
+      "healthcare_reasons": []
+    },
+    {
+      "id": "alps:9133162977a8d563122c",
+      "kind": "opportunity",
+      "source": "ALPS Healthcare",
+      "source_key": "alps",
+      "title": "Transcatheter Valve Repair Implant (Consignment)",
+      "tender_url": "https://supplier.ariba.com/",
+      "source_url": "https://www.alpshealthcare.com.sg/strategic-procurement/national-sourcing-events/",
+      "url": "https://supplier.ariba.com/",
+      "reference": null,
+      "agency": "ALPS Healthcare",
+      "published_at": null,
+      "closing_at": null,
+      "listed_on_source": true,
+      "category": "Medical Supplies",
+      "source_period": "2026-09",
+      "summary": "Medical Supplies. Scheduled national sourcing event; final RFP details are available through SAP Business Network.",
+      "first_seen_at": "2026-09-07T04:15:45Z",
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [
+        "technology services",
+        "supply or maintenance"
+      ],
+      "healthcare_reasons": []
+    },
+    {
+      "id": "alps:dea33c839015519d2969",
+      "kind": "opportunity",
+      "source": "ALPS Healthcare",
+      "source_key": "alps",
+      "title": "Microbiology Culture Media",
+      "tender_url": "https://supplier.ariba.com/",
+      "source_url": "https://www.alpshealthcare.com.sg/strategic-procurement/national-sourcing-events/",
+      "url": "https://supplier.ariba.com/",
+      "reference": null,
+      "agency": "ALPS Healthcare",
+      "published_at": null,
+      "closing_at": null,
+      "listed_on_source": true,
+      "category": "Medical Supplies",
+      "source_period": "2026-09",
+      "summary": "Medical Supplies. Scheduled national sourcing event; final RFP details are available through SAP Business Network.",
+      "first_seen_at": "2026-09-07T04:15:45Z",
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [
+        "technology services"
+      ],
+      "healthcare_reasons": []
+    },
+    {
+      "id": "alps:c2a9dd2c0ed662b05768",
+      "kind": "opportunity",
+      "source": "ALPS Healthcare",
+      "source_key": "alps",
+      "title": "Supply of Electrosurgical Units",
+      "tender_url": "https://supplier.ariba.com/",
+      "source_url": "https://www.alpshealthcare.com.sg/strategic-procurement/national-sourcing-events/",
+      "url": "https://supplier.ariba.com/",
+      "reference": null,
+      "agency": "ALPS Healthcare",
+      "published_at": null,
+      "closing_at": null,
+      "listed_on_source": true,
+      "category": "MedTech",
+      "source_period": "2026-09",
+      "summary": "MedTech. Scheduled national sourcing event; final RFP details are available through SAP Business Network.",
+      "first_seen_at": "2026-09-07T04:15:45Z",
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [
+        "technology services"
+      ],
+      "healthcare_reasons": []
+    },
+    {
+      "id": "alps:fe702e354b0bf576a7ea",
+      "kind": "opportunity",
+      "source": "ALPS Healthcare",
+      "source_key": "alps",
+      "title": "Supply of CO2 Laser Surgical System",
+      "tender_url": "https://supplier.ariba.com/",
+      "source_url": "https://www.alpshealthcare.com.sg/strategic-procurement/national-sourcing-events/",
+      "url": "https://supplier.ariba.com/",
+      "reference": null,
+      "agency": "ALPS Healthcare",
+      "published_at": null,
+      "closing_at": null,
+      "listed_on_source": true,
+      "category": "MedTech",
+      "source_period": "2026-09",
+      "summary": "MedTech. Scheduled national sourcing event; final RFP details are available through SAP Business Network.",
+      "first_seen_at": "2026-09-07T04:15:45Z",
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [
+        "technology services"
+      ],
+      "healthcare_reasons": []
+    },
+    {
+      "id": "alps:8d5e2394d5e186cf3ae1",
+      "kind": "opportunity",
+      "source": "ALPS Healthcare",
+      "source_key": "alps",
+      "title": "Supply and Delivery of Copier Paper",
+      "tender_url": "https://supplier.ariba.com/",
+      "source_url": "https://www.alpshealthcare.com.sg/strategic-procurement/national-sourcing-events/",
+      "url": "https://supplier.ariba.com/",
+      "reference": null,
+      "agency": "ALPS Healthcare",
+      "published_at": null,
+      "closing_at": null,
+      "listed_on_source": true,
+      "category": "Non-Medical Supplies",
+      "source_period": "2026-09",
+      "summary": "Non-Medical Supplies. Scheduled national sourcing event; final RFP details are available through SAP Business Network.",
+      "first_seen_at": "2026-09-07T04:15:45Z",
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [
+        "technology services",
+        "supply or maintenance"
+      ],
+      "healthcare_reasons": []
+    },
+    {
+      "id": "alps:b8d7bff45734e991fb55",
+      "kind": "opportunity",
+      "source": "ALPS Healthcare",
+      "source_key": "alps",
+      "title": "Disposable Kitchen Items",
+      "tender_url": "https://supplier.ariba.com/",
+      "source_url": "https://www.alpshealthcare.com.sg/strategic-procurement/national-sourcing-events/",
+      "url": "https://supplier.ariba.com/",
+      "reference": null,
+      "agency": "ALPS Healthcare",
+      "published_at": null,
+      "closing_at": null,
+      "listed_on_source": true,
+      "category": "Non-Medical Supplies",
+      "source_period": "2026-09",
+      "summary": "Non-Medical Supplies. Scheduled national sourcing event; final RFP details are available through SAP Business Network.",
+      "first_seen_at": "2026-09-07T04:15:45Z",
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [
+        "technology services"
+      ],
+      "healthcare_reasons": []
+    },
+    {
+      "id": "alps:efab4d94f27a27bea58a",
+      "kind": "opportunity",
+      "source": "ALPS Healthcare",
+      "source_key": "alps",
+      "title": "Supply of Disposable Non-Medical Bags",
+      "tender_url": "https://supplier.ariba.com/",
+      "source_url": "https://www.alpshealthcare.com.sg/strategic-procurement/national-sourcing-events/",
+      "url": "https://supplier.ariba.com/",
+      "reference": null,
+      "agency": "ALPS Healthcare",
+      "published_at": null,
+      "closing_at": null,
+      "listed_on_source": true,
+      "category": "Non-Medical Supplies",
+      "source_period": "2026-09",
+      "summary": "Non-Medical Supplies. Scheduled national sourcing event; final RFP details are available through SAP Business Network.",
+      "first_seen_at": "2026-09-07T04:15:45Z",
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [
+        "technology services"
+      ],
+      "healthcare_reasons": []
+    },
+    {
+      "id": "alps:5e188151a2dc381115bb",
+      "kind": "opportunity",
+      "source": "ALPS Healthcare",
+      "source_key": "alps",
+      "title": "Contrast Media",
+      "tender_url": "https://supplier.ariba.com/",
+      "source_url": "https://www.alpshealthcare.com.sg/strategic-procurement/national-sourcing-events/",
+      "url": "https://supplier.ariba.com/",
+      "reference": null,
+      "agency": "ALPS Healthcare",
+      "published_at": null,
+      "closing_at": null,
+      "listed_on_source": true,
+      "category": "Medical Supplies",
+      "source_period": "2026-10",
+      "summary": "Medical Supplies. Scheduled national sourcing event; final RFP details are available through SAP Business Network.",
+      "first_seen_at": "2026-09-07T04:15:45Z",
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [
+        "technology services"
+      ],
+      "healthcare_reasons": []
+    },
+    {
+      "id": "alps:014130831462a20169d8",
+      "kind": "opportunity",
+      "source": "ALPS Healthcare",
+      "source_key": "alps",
+      "title": "Supply of Radiographic, Fluoroscopic Units, Mobile (O-Arm)",
+      "tender_url": "https://supplier.ariba.com/",
+      "source_url": "https://www.alpshealthcare.com.sg/strategic-procurement/national-sourcing-events/",
+      "url": "https://supplier.ariba.com/",
+      "reference": null,
+      "agency": "ALPS Healthcare",
+      "published_at": null,
+      "closing_at": null,
+      "listed_on_source": true,
+      "category": "MedTech",
+      "source_period": "2026-10",
+      "summary": "MedTech. Scheduled national sourcing event; final RFP details are available through SAP Business Network.",
+      "first_seen_at": "2026-09-07T04:15:45Z",
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [
+        "technology services"
+      ],
+      "healthcare_reasons": []
+    },
+    {
+      "id": "alps:f5199f59a1c17fda4358",
+      "kind": "opportunity",
+      "source": "ALPS Healthcare",
+      "source_key": "alps",
+      "title": "Supply of Radiographic, Fluoroscopic Unit, Digital, Mobile (C-arm)",
+      "tender_url": "https://supplier.ariba.com/",
+      "source_url": "https://www.alpshealthcare.com.sg/strategic-procurement/national-sourcing-events/",
+      "url": "https://supplier.ariba.com/",
+      "reference": null,
+      "agency": "ALPS Healthcare",
+      "published_at": null,
+      "closing_at": null,
+      "listed_on_source": true,
+      "category": "MedTech",
+      "source_period": "2026-10",
+      "summary": "MedTech. Scheduled national sourcing event; final RFP details are available through SAP Business Network.",
+      "first_seen_at": "2026-09-07T04:15:45Z",
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [
+        "technology services"
+      ],
+      "healthcare_reasons": []
+    },
+    {
+      "id": "alps:688c4e1713eeab0e3212",
+      "kind": "opportunity",
+      "source": "ALPS Healthcare",
+      "source_key": "alps",
+      "title": "Supply of Radiographic, Fluroscopic Unit, Mobile (Mini C-Arm)",
+      "tender_url": "https://supplier.ariba.com/",
+      "source_url": "https://www.alpshealthcare.com.sg/strategic-procurement/national-sourcing-events/",
+      "url": "https://supplier.ariba.com/",
+      "reference": null,
+      "agency": "ALPS Healthcare",
+      "published_at": null,
+      "closing_at": null,
+      "listed_on_source": true,
+      "category": "MedTech",
+      "source_period": "2026-10",
+      "summary": "MedTech. Scheduled national sourcing event; final RFP details are available through SAP Business Network.",
+      "first_seen_at": "2026-09-07T04:15:45Z",
+      "last_seen_at": "2026-09-07T04:15:45Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [
+        "technology services"
+      ],
+      "healthcare_reasons": []
     }
   ]
 }

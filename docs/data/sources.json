@@ -1,0 +1,64 @@
+{
+  "generated_at": "2026-09-07T04:15:45Z",
+  "sources": [
+    {
+      "key": "gebiz",
+      "name": "GeBIZ",
+      "status": "ok",
+      "record_count": 4,
+      "url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_BO_FEED.xml"
+    },
+    {
+      "key": "renci",
+      "name": "Ren Ci Hospital",
+      "status": "ok",
+      "record_count": 10,
+      "url": "https://www.renci.org.sg/notices-and-tenders/"
+    },
+    {
+      "key": "alps",
+      "name": "ALPS Healthcare",
+      "status": "ok",
+      "record_count": 13,
+      "url": "https://www.alpshealthcare.com.sg/strategic-procurement/national-sourcing-events/"
+    },
+    {
+      "key": "nkf",
+      "name": "National Kidney Foundation",
+      "status": "error",
+      "record_count": 0,
+      "url": "https://nkfs.org/tender/request-for-information/request-for-proposals/",
+      "error": "ValueError: No NKF procurement records found; page structure may have changed"
+    },
+    {
+      "key": "gebiz-awards",
+      "name": "GeBIZ Awards",
+      "status": "ok",
+      "record_count": 1,
+      "url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
+    }
+  ],
+  "portals": [
+    {
+      "key": "aic",
+      "name": "Agency for Integrated Care",
+      "status": "portal",
+      "url": "https://www.aic.sg/procurement",
+      "platform": "SAP Business Network"
+    },
+    {
+      "key": "sap",
+      "name": "SAP Business Network / Ariba",
+      "status": "login_required",
+      "url": "https://supplier.ariba.com/",
+      "platform": "SAP Business Network"
+    },
+    {
+      "key": "tenderboard",
+      "name": "TenderBoard Singapore",
+      "status": "planned",
+      "url": "https://www.tenderboard.biz/singaporetenders",
+      "platform": "TenderBoard"
+    }
+  ]
+}
