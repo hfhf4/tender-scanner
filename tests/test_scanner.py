@@ -49,7 +49,7 @@ class ScannerV2Tests(unittest.TestCase):
         self.assertEqual(rows[0]["id"],"nkf:20260901"); self.assertIn("nkfs.org",rows[0]["tender_url"]); self.assertEqual(rows[0]["relevance"],"high")
 
     def test_nkf_fallback_parser_for_rendered_cards(self):
-        html='''<div class="tender-item"><p>Reference No: 20260403</p><h3><a href="/wp-content/uploads/2026/05/RFP-20260403-Documents.zip">RFP for Contract Management and Policy Management System</a></h3><p>Closing Date & Time: 3pm on 23 September 2026</p><p>Submission Requirements: submit electronically.</p></div>'''
+        html='''<div class="tender-item"><h3><a href="/wp-content/uploads/2026/05/RFP-20260403-Documents.zip">RFP for Contract Management and Policy Management System</a></h3><p>Reference No: 20260403</p><p>Closing Date & Time: 3pm on 23 September 2026</p><p>Submission Requirements: submit electronically.</p></div>'''
         rows=nkf.parse_page(html,"RFP",nkf.PAGES["RFP"],"2026-09-07T00:00:00Z")
         self.assertEqual(len(rows),1)
         self.assertEqual(rows[0]["id"],"nkf:20260403")
