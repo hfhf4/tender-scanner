@@ -15,6 +15,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: tender-scan
@@ -22,6 +24,9 @@ concurrency:
 
 jobs:
   scan:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     timeout-minutes: 12
     steps:
@@ -30,16 +35,21 @@ jobs:
         with:
           ref: main
           fetch-depth: 0
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
       - name: Install dependencies
         run: python -m pip install -r requirements.txt
+
       - name: Run tests
         run: python -m unittest discover -s tests -v
+
       - name: Fetch and score tender sources
         run: python scanner.py
+
       - name: Commit refreshed data
         run: |
           git config user.name "github-actions[bot]"
@@ -52,3 +62,19 @@ jobs:
             git pull --rebase origin main
             git push
           fi
+
+      # GITHUB_TOKEN-authored pushes do not start a second workflow run, so a
+      # scheduled scan must publish the refreshed docs/ artifact itself.
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Upload refreshed site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy refreshed site
+        id: deployment
+        uses: actions/deploy-pages@v4
