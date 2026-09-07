@@ -35,6 +35,7 @@ NEGATIVE_RULES = (
 HEALTHCARE_RULES = (
     (r"\bministry of health\b|\bmoh holdings\b|\bmohh\b", 100, "MOH ecosystem"),
     (r"\bsinghealth\b|\bnhg\b|\bnational university health system\b|\bnuhs\b", 100, "public healthcare cluster"),
+    (r"\balps healthcare\b|\bnational kidney foundation\b|\bthe kidney foundation\b", 100, "healthcare procurement source"),
     (r"\bhospital\b|\bmedical centre\b|\bmedical center\b", 80, "healthcare institution"),
     (r"\bnursing home\b|\bcommunity care\b|\beldercare\b|\bsenior care\b", 75, "community care"),
     (r"\bhealth sciences authority\b|\bhsa\b", 80, "health regulator"),
@@ -60,8 +61,6 @@ def _score(text: str, rules) -> tuple[int, list[str]]:
 def legal_score(text: str) -> tuple[int, list[str]]:
     normalized=" ".join((text or "").lower().split())
     score,reasons=_score(normalized,LEGAL_RULES+NEGATIVE_RULES)
-    # Explicit procurement of lawyers/legal services must remain a high-priority hit,
-    # even where the same notice also contains technical/operational terminology.
     if re.search(r"\b(?:legal services?|panel of law firms?|legal counsel|law firms?)\b",normalized):
         score=max(score,75)
     return score,reasons
