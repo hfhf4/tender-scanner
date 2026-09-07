@@ -17,6 +17,12 @@ class ScannerV2Tests(unittest.TestCase):
         score,reasons=healthcare_score("Ministry of Health hospital legal services")
         self.assertEqual(score,100); self.assertTrue(reasons)
 
+    def test_known_healthcare_procurement_sources_are_healthcare(self):
+        nkf_record=enrich({"title":"ITQ for professional services","agency":"National Kidney Foundation","source":"National Kidney Foundation"})
+        alps_record=enrich({"title":"Provision of Legal Services","agency":"ALPS Healthcare","source":"ALPS Healthcare"})
+        self.assertEqual(nkf_record["sector"],"Healthcare")
+        self.assertEqual(alps_record["sector"],"Healthcare")
+
     def test_enrichment_preserves_separate_links(self):
         record=enrich({"title":"Legal services","agency":"Ren Ci Hospital","source":"Ren Ci Hospital","tender_url":"https://www.renci.org.sg/a.pdf","source_url":"https://www.renci.org.sg/notices-and-tenders/"})
         self.assertEqual(record["tender_url"],"https://www.renci.org.sg/a.pdf")
@@ -42,11 +48,13 @@ class ScannerV2Tests(unittest.TestCase):
         html='''<h4>SEPTEMBER 2026 SOURCING EVENTS</h4><table><tr><th>S/N</th><th>CATEGORY</th><th>RFP TITLE</th></tr><tr><td>1</td><td>Services</td><td>Provision of Legal Services</td></tr></table>'''
         rows=alps.parse_listing(html,"2026-09-07T00:00:00Z")
         self.assertEqual(len(rows),1); self.assertEqual(rows[0]["source_key"],"alps"); self.assertEqual(rows[0]["relevance"],"high")
+        self.assertEqual(rows[0]["sector"],"Healthcare")
 
     def test_nkf_table_parser(self):
         html='''<table><tr><td>Title</td><td><a href="/notice.pdf">RFP for Data Protection Legal Advisory</a></td></tr><tr><td>Reference No</td><td>20260901</td></tr><tr><td>Closing Date & Time</td><td>3pm on 23 September 2026</td></tr></table>'''
         rows=nkf.parse_page(html,"RFP",nkf.PAGES["RFP"],"2026-09-07T00:00:00Z")
         self.assertEqual(rows[0]["id"],"nkf:20260901"); self.assertIn("nkfs.org",rows[0]["tender_url"]); self.assertEqual(rows[0]["relevance"],"high")
+        self.assertEqual(rows[0]["sector"],"Healthcare")
 
     def test_nkf_fallback_parser_for_rendered_cards(self):
         html='''<div class="tender-item"><h3><a href="/wp-content/uploads/2026/05/RFP-20260403-Documents.zip">RFP for Contract Management and Policy Management System</a></h3><p>Reference No: 20260403</p><p>Closing Date & Time: 3pm on 23 September 2026</p><p>Submission Requirements: submit electronically.</p></div>'''
@@ -55,5 +63,12 @@ class ScannerV2Tests(unittest.TestCase):
         self.assertEqual(rows[0]["id"],"nkf:20260403")
         self.assertTrue(rows[0]["tender_url"].endswith("RFP-20260403-Documents.zip"))
         self.assertIsNotNone(rows[0]["closing_at"])
+
+    def test_nkf_deadline_prefers_submission_date_over_contract_period(self):
+        text="Supply and Delivery of Fosrenol (1 December 2026 - 30 November 2030). The envelope must be delivered by 1500hrs on 23 September 2026 (Wednesday) to NKF Centre."
+        parsed=nkf._parse_deadline(text)
+        self.assertIsNotNone(parsed)
+        self.assertEqual(parsed.year,2026); self.assertEqual(parsed.month,9); self.assertEqual(parsed.day,23)
+        self.assertEqual(parsed.hour,7); self.assertEqual(parsed.minute,0)
 
 if __name__=="__main__": unittest.main()
