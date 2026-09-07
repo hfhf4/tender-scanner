@@ -79,7 +79,7 @@ def _deadline_segment(text: str) -> str:
     for pattern in DEADLINE_MARKERS:
         marker = re.search(pattern, normalized, re.I)
         if marker:
-            return normalized[max(0, marker.start() - 60):marker.start() + 320]
+            return normalized[marker.start():marker.start() + 320]
     return normalized
 
 
