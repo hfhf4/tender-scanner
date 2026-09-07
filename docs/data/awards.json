@@ -3,9 +3,31 @@
   "source_urls": [
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
   ],
-  "generated_at": "2026-09-07T12:28:11Z",
-  "record_count": 23,
+  "generated_at": "2026-09-07T19:08:35Z",
+  "record_count": 24,
   "records": [
+    {
+      "id": "SPO000ETQ26000086",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "SPO-REQ-2026-003663-INP- Quotation for Purchase of Internship Injury Insurance for Singapore Polytechnic Students for 2 years with an option to extend for another year (SPO000ETQ26000086)",
+      "tender_url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=SPO000ETQ26000086&status=AWARDED&type=TQ&OPPORTUNITY_ID=1000000000000545168&origin=rss",
+      "source_url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=SPO000ETQ26000086&status=AWARDED&type=TQ&OPPORTUNITY_ID=1000000000000545168&origin=rss",
+      "award_summary": "RVC INSURANCE BROKERS PTE. LTD. - SGD 36750",
+      "awarded_at": "2026-09-06T16:00:00Z",
+      "first_seen_at": "2026-09-07T19:08:35Z",
+      "last_seen_at": "2026-09-07T19:08:35Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [],
+      "healthcare_reasons": []
+    },
     {
       "id": "ESG000ETT26000008",
       "kind": "award",
