@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T04:21:54Z",
+  "generated_at": "2026-09-07T04:24:00Z",
   "sources": [
     {
       "key": "gebiz",
@@ -28,7 +28,7 @@
       "status": "error",
       "record_count": 0,
       "url": "https://nkfs.org/tender/request-for-information/request-for-proposals/",
-      "error": "ValueError: No NKF procurement records found; page structure may have changed"
+      "error": "ValueError: No NKF procurement records found; RFP:56590B records=0 ref_label=False title_label=False; RFI:53705B records=0 ref_label=False title_label=False; ITT:56573B records=0 ref_label=False title_label=False; ITQ:56951B records=0 ref_label=False title_label=False"
     },
     {
       "key": "gebiz-awards",
