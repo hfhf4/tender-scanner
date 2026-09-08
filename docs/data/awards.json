@@ -3,8 +3,8 @@
   "source_urls": [
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
   ],
-  "generated_at": "2026-09-08T04:32:02Z",
-  "record_count": 24,
+  "generated_at": "2026-09-08T11:15:42Z",
+  "record_count": 25,
   "records": [
     {
       "id": "SPO000ETQ26000086",
@@ -18,13 +18,37 @@
       "award_summary": "RVC INSURANCE BROKERS PTE. LTD. - SGD 36750",
       "awarded_at": "2026-09-06T16:00:00Z",
       "first_seen_at": "2026-09-07T19:08:35Z",
-      "last_seen_at": "2026-09-08T04:32:02Z",
+      "last_seen_at": "2026-09-08T11:15:42Z",
       "legal_relevance_score": 0,
       "relevance_score": 0,
       "relevance": "low",
       "healthcare_relevance_score": 0,
       "sector": "Other",
       "practice_areas": [],
+      "score_reasons": [],
+      "healthcare_reasons": []
+    },
+    {
+      "id": "LTA000ETT26000023",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Appointment of Qualified Person (Supervision) Including Qualified Site Supervisors for Contract T3015 (LTA000ETT26000023)",
+      "tender_url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=LTA000ETT26000023&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000545221&origin=rss",
+      "source_url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=LTA000ETT26000023&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000545221&origin=rss",
+      "award_summary": "TRITECH CONSULTANTS PTE. LTD. - SGD 2383626",
+      "awarded_at": "2026-09-06T16:00:00Z",
+      "first_seen_at": "2026-09-08T11:15:42Z",
+      "last_seen_at": "2026-09-08T11:15:42Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [
+        "Corporate / Commercial"
+      ],
       "score_reasons": [],
       "healthcare_reasons": []
     },
