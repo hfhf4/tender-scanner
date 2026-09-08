@@ -3,9 +3,31 @@
   "source_urls": [
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
   ],
-  "generated_at": "2026-09-08T11:15:42Z",
-  "record_count": 25,
+  "generated_at": "2026-09-08T16:36:38Z",
+  "record_count": 29,
   "records": [
+    {
+      "id": "EDB000ETT26000003",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Invitation to Tender for Content Marketing & Communications Services in China 2026. OIC: Chua Jia Qi. (PR20260380) (EDB000ETT26000003)",
+      "tender_url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=EDB000ETT26000003&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000545305&origin=rss",
+      "source_url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=EDB000ETT26000003&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000545305&origin=rss",
+      "award_summary": "BURSON (SG) PTE. LTD. - SGD 1129492.50",
+      "awarded_at": "2026-09-07T16:00:00Z",
+      "first_seen_at": "2026-09-08T16:36:38Z",
+      "last_seen_at": "2026-09-08T16:36:38Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [],
+      "healthcare_reasons": []
+    },
     {
       "id": "SPO000ETQ26000086",
       "kind": "award",
@@ -18,7 +40,7 @@
       "award_summary": "RVC INSURANCE BROKERS PTE. LTD. - SGD 36750",
       "awarded_at": "2026-09-06T16:00:00Z",
       "first_seen_at": "2026-09-07T19:08:35Z",
-      "last_seen_at": "2026-09-08T11:15:42Z",
+      "last_seen_at": "2026-09-08T16:36:38Z",
       "legal_relevance_score": 0,
       "relevance_score": 0,
       "relevance": "low",
@@ -40,7 +62,7 @@
       "award_summary": "TRITECH CONSULTANTS PTE. LTD. - SGD 2383626",
       "awarded_at": "2026-09-06T16:00:00Z",
       "first_seen_at": "2026-09-08T11:15:42Z",
-      "last_seen_at": "2026-09-08T11:15:42Z",
+      "last_seen_at": "2026-09-08T16:36:38Z",
       "legal_relevance_score": 0,
       "relevance_score": 0,
       "relevance": "low",
@@ -209,6 +231,30 @@
       "last_seen_at": "2026-09-04T16:19:40Z"
     },
     {
+      "id": "HDB000ETT26000039",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "MULTI-DISCIPLINARY (ARCHITECTURAL, CIVIL & STRUCTURAL ENGINEERING, MECHANICAL & ELECTRICAL ENGINEERING, QUANTITY SURVEYING AND PROJECT MANAGEMENT) CONSULTANCY SERVICES FOR PUBLIC HOUSING AT PROJECT DK (HDB000ETT26000039)",
+      "tender_url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=HDB000ETT26000039&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000545287&origin=rss",
+      "source_url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=HDB000ETT26000039&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000545287&origin=rss",
+      "award_summary": "",
+      "awarded_at": "2026-09-01T16:00:00Z",
+      "first_seen_at": "2026-09-08T16:36:38Z",
+      "last_seen_at": "2026-09-08T16:36:38Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [
+        "technical consultancy"
+      ],
+      "healthcare_reasons": []
+    },
+    {
       "id": "STB000ETQ26000022",
       "kind": "award",
       "title": "ITQ for the Provision of Medical Services for the Singapore Suite 2026 during the FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026, to support the safe operation of the Government's corporate hospitality suite. (STB000ETQ26000022)",
@@ -239,6 +285,30 @@
       "last_seen_at": "2026-09-03T16:23:57Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
+    },
+    {
+      "id": "HDB000ETT26000084",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "MULTI-DISCIPLINARY (ARCHITECTURAL, CIVIL & STRUCTURAL ENGINEERING, MECHANICAL & ELECTRICAL ENGINEERING, QUANTITY SURVEYING AND PROJECT MANAGEMENT) CONSULTANCY SERVICES FOR PUBLIC HOUSING AT PROJECT GD (HDB000ETT26000084)",
+      "tender_url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=HDB000ETT26000084&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000545292&origin=rss",
+      "source_url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=HDB000ETT26000084&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000545292&origin=rss",
+      "award_summary": "",
+      "awarded_at": "2026-08-31T16:00:00Z",
+      "first_seen_at": "2026-09-08T16:36:38Z",
+      "last_seen_at": "2026-09-08T16:36:38Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [
+        "technical consultancy"
+      ],
+      "healthcare_reasons": []
     },
     {
       "id": "MAS000ETQ26000016",
@@ -302,6 +372,30 @@
       "last_seen_at": "2026-09-02T11:15:05Z",
       "source": "GeBIZ",
       "source_key": "gebiz"
+    },
+    {
+      "id": "HDB000ETT26000062",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "SPECIALIST PROFESSIONAL ENGINEERING (GEOTECHNICAL) CONSULTANCY SERVICES FOR PROPOSED PUBLIC HOUSING DEVELOPMENT AT PROJECT FT (HDB000ETT26000062)",
+      "tender_url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=HDB000ETT26000062&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000545105&origin=rss",
+      "source_url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=HDB000ETT26000062&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000545105&origin=rss",
+      "award_summary": "JIB SPECIALIST CONSULTANTS PTE. LTD. - SGD 216000",
+      "awarded_at": "2026-08-30T16:00:00Z",
+      "first_seen_at": "2026-09-08T16:36:38Z",
+      "last_seen_at": "2026-09-08T16:36:38Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [
+        "technical consultancy"
+      ],
+      "healthcare_reasons": []
     },
     {
       "id": "MOE000ETT26000012",
