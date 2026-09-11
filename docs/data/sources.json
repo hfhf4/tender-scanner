@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-11T11:17:38Z",
+  "generated_at": "2026-09-11T16:26:24Z",
   "sources": [
     {
       "key": "gebiz",
       "name": "GeBIZ",
       "status": "ok",
-      "record_count": 14,
+      "record_count": 5,
       "url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_BO_FEED.xml"
     },
     {
@@ -26,7 +26,7 @@
       "key": "nkf",
       "name": "National Kidney Foundation",
       "status": "ok",
-      "record_count": 4,
+      "record_count": 10,
       "url": "https://nkfs.org/tender/request-for-information/request-for-proposals/"
     },
     {
