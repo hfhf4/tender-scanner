@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T04:31:34Z",
+  "generated_at": "2026-09-12T10:42:44Z",
   "sources": [
     {
       "key": "gebiz",
@@ -11,10 +11,9 @@
     {
       "key": "renci",
       "name": "Ren Ci Hospital",
-      "status": "error",
-      "record_count": 0,
-      "url": "https://www.renci.org.sg/notices-and-tenders/",
-      "error": "RuntimeError: Unable to fetch https://www.renci.org.sg/notices-and-tenders/: <urlopen error [Errno -3] Temporary failure in name resolution>"
+      "status": "ok",
+      "record_count": 10,
+      "url": "https://www.renci.org.sg/notices-and-tenders/"
     },
     {
       "key": "alps",
