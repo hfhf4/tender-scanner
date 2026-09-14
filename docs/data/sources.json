@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:42:15Z",
+  "generated_at": "2026-09-14T19:50:26Z",
   "sources": [
     {
       "key": "gebiz",
@@ -33,7 +33,7 @@
       "key": "gebiz-awards",
       "name": "GeBIZ Awards",
       "status": "ok",
-      "record_count": 3,
+      "record_count": 4,
       "url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
     }
   ],
