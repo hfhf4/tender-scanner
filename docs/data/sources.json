@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-17T11:38:27Z",
+  "generated_at": "2026-09-17T16:58:07Z",
   "sources": [
     {
       "key": "gebiz",
       "name": "GeBIZ",
       "status": "ok",
-      "record_count": 15,
+      "record_count": 9,
       "url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_BO_FEED.xml"
     },
     {
@@ -18,9 +18,10 @@
     {
       "key": "alps",
       "name": "ALPS Healthcare",
-      "status": "ok",
-      "record_count": 13,
-      "url": "https://www.alpshealthcare.com.sg/strategic-procurement/national-sourcing-events/"
+      "status": "error",
+      "record_count": 0,
+      "url": "https://www.alpshealthcare.com.sg/strategic-procurement/national-sourcing-events/",
+      "error": "ValueError: No ALPS sourcing events found; page structure may have changed"
     },
     {
       "key": "nkf",
