@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-30T05:29:26Z",
+  "generated_at": "2026-09-30T12:30:48Z",
   "sources": [
     {
       "key": "gebiz",
       "name": "GeBIZ",
       "status": "ok",
-      "record_count": 23,
+      "record_count": 27,
       "url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_BO_FEED.xml"
     },
     {
       "key": "renci",
       "name": "Ren Ci Hospital",
       "status": "ok",
-      "record_count": 10,
+      "record_count": 11,
       "url": "https://www.renci.org.sg/notices-and-tenders/"
     },
     {
@@ -34,7 +34,7 @@
       "key": "gebiz-awards",
       "name": "GeBIZ Awards",
       "status": "ok",
-      "record_count": 12,
+      "record_count": 17,
       "url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
     }
   ],
