@@ -3,9 +3,55 @@
   "source_urls": [
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
   ],
-  "generated_at": "2026-10-12T10:44:14Z",
-  "record_count": 135,
+  "generated_at": "2026-10-12T21:15:18Z",
+  "record_count": 137,
   "records": [
+    {
+      "id": "RPO000ETQ26000094",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Quotation for Lighting Designer Services for Reflections Arts Festival 2026 for OSG (RPO000ETQ26000094)",
+      "tender_url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=RPO000ETQ26000094&status=AWARDED&type=TQ&OPPORTUNITY_ID=1000000000000551005&origin=rss",
+      "source_url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=RPO000ETQ26000094&status=AWARDED&type=TQ&OPPORTUNITY_ID=1000000000000551005&origin=rss",
+      "award_summary": "Alberta wileo - SGD 3600, ROADIE PTE. LTD. - SGD 7000",
+      "awarded_at": "2026-10-11T16:00:00Z",
+      "first_seen_at": "2026-10-12T21:15:18Z",
+      "last_seen_at": "2026-10-12T21:15:18Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [],
+      "healthcare_reasons": []
+    },
+    {
+      "id": "JUDSUBETT26000002",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "ITT - For Design, Supply, Installation, Testing and Commissioning of Audio Visual and Recording system (JUDSUBETT26000002)",
+      "tender_url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=JUDSUBETT26000002&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000550181&origin=rss",
+      "source_url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=JUDSUBETT26000002&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000550181&origin=rss",
+      "award_summary": "ELECTRO-ACOUSTICS SYSTEMS PTE. LTD. - SGD 1848987",
+      "awarded_at": "2026-10-11T16:00:00Z",
+      "first_seen_at": "2026-10-12T21:15:18Z",
+      "last_seen_at": "2026-10-12T21:15:18Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [
+        "supply or maintenance"
+      ],
+      "healthcare_reasons": []
+    },
     {
       "id": "MOESCHETQ26003608",
       "kind": "award",
