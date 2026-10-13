@@ -3,9 +3,31 @@
   "source_urls": [
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
   ],
-  "generated_at": "2026-10-13T02:34:47Z",
-  "record_count": 137,
+  "generated_at": "2026-10-13T10:31:35Z",
+  "record_count": 139,
   "records": [
+    {
+      "id": "PMOCPIETQ26000008",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "INVITATION TO QUOTE (ITQ) FOR THE PROVISION OF CONSULTANCY SERVICES FOR THE COMPENSATION FRAMEWORK REVIEW FOR OFFICERS ON CPIO (2023) SCHEME (PMOCPIETQ26000008)",
+      "tender_url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=PMOCPIETQ26000008&status=AWARDED&type=TQ&OPPORTUNITY_ID=1000000000000551160&origin=rss",
+      "source_url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=PMOCPIETQ26000008&status=AWARDED&type=TQ&OPPORTUNITY_ID=1000000000000551160&origin=rss",
+      "award_summary": "null - SGD 0, MARSH (MERCER) SINGAPORE PTE. LTD. - SGD 70500",
+      "awarded_at": "2026-10-12T16:00:00Z",
+      "first_seen_at": "2026-10-13T10:31:35Z",
+      "last_seen_at": "2026-10-13T10:31:35Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [],
+      "healthcare_reasons": []
+    },
     {
       "id": "RPO000ETQ26000094",
       "kind": "award",
@@ -18,7 +40,7 @@
       "award_summary": "Alberta wileo - SGD 3600, ROADIE PTE. LTD. - SGD 7000",
       "awarded_at": "2026-10-11T16:00:00Z",
       "first_seen_at": "2026-10-12T21:15:18Z",
-      "last_seen_at": "2026-10-13T02:34:47Z",
+      "last_seen_at": "2026-10-13T10:31:35Z",
       "legal_relevance_score": 0,
       "relevance_score": 0,
       "relevance": "low",
@@ -40,7 +62,7 @@
       "award_summary": "ELECTRO-ACOUSTICS SYSTEMS PTE. LTD. - SGD 1848987",
       "awarded_at": "2026-10-11T16:00:00Z",
       "first_seen_at": "2026-10-12T21:15:18Z",
-      "last_seen_at": "2026-10-13T02:34:47Z",
+      "last_seen_at": "2026-10-13T10:31:35Z",
       "legal_relevance_score": 0,
       "relevance_score": 0,
       "relevance": "low",
@@ -50,6 +72,30 @@
       "score_reasons": [
         "supply or maintenance"
       ],
+      "healthcare_reasons": []
+    },
+    {
+      "id": "LTA000ETT26000005",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Appointment of Qualified Person (Supervision) for Contract DE152 (LTA000ETT26000005)",
+      "tender_url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=LTA000ETT26000005&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000551122&origin=rss",
+      "source_url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=LTA000ETT26000005&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000551122&origin=rss",
+      "award_summary": "R.J. CROCKER CONSULTANTS PTE. LTD. - SGD 16128888",
+      "awarded_at": "2026-10-11T16:00:00Z",
+      "first_seen_at": "2026-10-13T10:31:35Z",
+      "last_seen_at": "2026-10-13T10:31:35Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [
+        "Corporate / Commercial"
+      ],
+      "score_reasons": [],
       "healthcare_reasons": []
     },
     {
