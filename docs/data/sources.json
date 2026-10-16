@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-15T21:20:15Z",
+  "generated_at": "2026-10-16T04:28:00Z",
   "sources": [
     {
       "key": "gebiz",
       "name": "GeBIZ",
       "status": "ok",
-      "record_count": 18,
+      "record_count": 21,
       "url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_BO_FEED.xml"
     },
     {
