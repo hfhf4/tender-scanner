@@ -3,7 +3,7 @@
   "source_urls": [
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
   ],
-  "generated_at": "2026-10-25T04:37:06Z",
+  "generated_at": "2026-10-25T11:22:05Z",
   "record_count": 188,
   "records": [
     {
@@ -18,7 +18,7 @@
       "award_summary": "PENTACTICS PRIVATE LIMITED - SGD 22275",
       "awarded_at": "2026-10-22T16:00:00Z",
       "first_seen_at": "2026-10-23T11:34:33Z",
-      "last_seen_at": "2026-10-25T04:37:06Z",
+      "last_seen_at": "2026-10-25T11:22:05Z",
       "legal_relevance_score": 0,
       "relevance_score": 0,
       "relevance": "low",
@@ -40,7 +40,7 @@
       "award_summary": "SINFOSYS TECHNOLOGY PTE. LTD. - SGD 31186.54",
       "awarded_at": "2026-10-22T16:00:00Z",
       "first_seen_at": "2026-10-23T11:34:33Z",
-      "last_seen_at": "2026-10-25T04:37:06Z",
+      "last_seen_at": "2026-10-25T11:22:05Z",
       "legal_relevance_score": 0,
       "relevance_score": 0,
       "relevance": "low",
@@ -598,7 +598,7 @@
       "award_summary": "HYDROBIOLOGY SINGAPORE PTE. LTD. - SGD 295700",
       "awarded_at": "2026-10-15T16:00:00Z",
       "first_seen_at": "2026-10-24T20:45:28Z",
-      "last_seen_at": "2026-10-25T04:37:06Z",
+      "last_seen_at": "2026-10-25T11:22:05Z",
       "legal_relevance_score": 0,
       "relevance_score": 0,
       "relevance": "low",
@@ -2311,7 +2311,7 @@
       "award_summary": "",
       "awarded_at": "2026-09-27T16:00:00Z",
       "first_seen_at": "2026-10-23T11:34:33Z",
-      "last_seen_at": "2026-10-25T04:37:06Z",
+      "last_seen_at": "2026-10-25T11:22:05Z",
       "legal_relevance_score": 0,
       "relevance_score": 0,
       "relevance": "low",
@@ -2333,7 +2333,7 @@
       "award_summary": "SCHRODER INVESTMENT MANAGEMENT (SINGAPORE) LTD. - SGD 1020000, null - SGD 0, AMUNDI SINGAPORE LIMITED - SGD 1170000",
       "awarded_at": "2026-09-27T16:00:00Z",
       "first_seen_at": "2026-10-23T11:34:33Z",
-      "last_seen_at": "2026-10-25T04:37:06Z",
+      "last_seen_at": "2026-10-25T11:22:05Z",
       "legal_relevance_score": 0,
       "relevance_score": 0,
       "relevance": "low",
