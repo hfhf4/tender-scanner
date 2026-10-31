@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-31T12:21:52Z",
+  "generated_at": "2026-10-31T19:16:15Z",
   "sources": [
     {
       "key": "gebiz",
       "name": "GeBIZ",
       "status": "ok",
-      "record_count": 20,
+      "record_count": 12,
       "url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_BO_FEED.xml"
     },
     {
@@ -34,7 +34,7 @@
       "key": "gebiz-awards",
       "name": "GeBIZ Awards",
       "status": "ok",
-      "record_count": 8,
+      "record_count": 3,
       "url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
     }
   ],
