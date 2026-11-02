@@ -3,9 +3,31 @@
   "source_urls": [
     "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
   ],
-  "generated_at": "2026-11-02T00:41:05Z",
-  "record_count": 215,
+  "generated_at": "2026-11-02T10:58:23Z",
+  "record_count": 217,
   "records": [
+    {
+      "id": "MOESCHETQ26004073",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "The Provision of School Polo Tee for Students in Edgefield Secondary School from 1 December 2026 to 31 December 2027 with an Option Year from 1 January 2028 to 31 December 2028 (MOESCHETQ26004073)",
+      "tender_url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=MOESCHETQ26004073&status=AWARDED&type=TQ&OPPORTUNITY_ID=1000000000000553845&origin=rss",
+      "source_url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=MOESCHETQ26004073&status=AWARDED&type=TQ&OPPORTUNITY_ID=1000000000000553845&origin=rss",
+      "award_summary": "STUDENT MART - SGD 22.02",
+      "awarded_at": "2026-11-01T16:00:00Z",
+      "first_seen_at": "2026-11-02T10:58:23Z",
+      "last_seen_at": "2026-11-02T10:58:23Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
+      "score_reasons": [],
+      "healthcare_reasons": []
+    },
     {
       "id": "EMA000ETT26000003",
       "kind": "award",
@@ -319,6 +341,28 @@
       "practice_areas": [
         "Corporate / Commercial"
       ],
+      "score_reasons": [],
+      "healthcare_reasons": []
+    },
+    {
+      "id": "LTA000ETT26000056",
+      "kind": "award",
+      "source": "GeBIZ",
+      "source_key": "gebiz",
+      "title": "Appointment of Accredited Checking Services for Contracts RC216, RC217 and RC218. (LTA000ETT26000056)",
+      "tender_url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=LTA000ETT26000056&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000555130&origin=rss",
+      "source_url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml",
+      "url": "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=LTA000ETT26000056&status=AWARDED&type=TT&OPPORTUNITY_ID=1000000000000555130&origin=rss",
+      "award_summary": "YANTRON (SINGAPORE) PTE. LTD. - SGD 3954950",
+      "awarded_at": "2026-10-27T16:00:00Z",
+      "first_seen_at": "2026-11-02T10:58:23Z",
+      "last_seen_at": "2026-11-02T10:58:23Z",
+      "legal_relevance_score": 0,
+      "relevance_score": 0,
+      "relevance": "low",
+      "healthcare_relevance_score": 0,
+      "sector": "Other",
+      "practice_areas": [],
       "score_reasons": [],
       "healthcare_reasons": []
     },
@@ -792,7 +836,7 @@
       "award_summary": "ENKON INTERNATIONAL CONSULTING ENGINEERS PTE LTD - SGD 13052, YKLUM PTE. LTD. - SGD 13052, BMS ENGINEERS PTE LTD - SGD 13052, CALVARY PROJECTS & CONSULTANCY - SGD 13052, C H LIM CONSULTANTS - SGD 13052, BELMACS PTE LTD - SGD 13052, TAN HENG WEE REGISTERED INSPECTOR - SGD 13052",
       "awarded_at": "2026-10-21T16:00:00Z",
       "first_seen_at": "2026-11-01T13:16:45Z",
-      "last_seen_at": "2026-11-02T00:41:05Z",
+      "last_seen_at": "2026-11-02T10:58:23Z",
       "legal_relevance_score": 0,
       "relevance_score": 0,
       "relevance": "low",
