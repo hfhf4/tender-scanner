@@ -1,20 +1,19 @@
 {
-  "generated_at": "2026-11-08T10:15:26Z",
+  "generated_at": "2026-11-08T17:54:31Z",
   "sources": [
     {
       "key": "gebiz",
       "name": "GeBIZ",
       "status": "ok",
-      "record_count": 16,
+      "record_count": 1,
       "url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_BO_FEED.xml"
     },
     {
       "key": "renci",
       "name": "Ren Ci Hospital",
-      "status": "error",
-      "record_count": 0,
-      "url": "https://www.renci.org.sg/notices-and-tenders/",
-      "error": "RuntimeError: Unable to fetch https://www.renci.org.sg/notices-and-tenders/: <urlopen error [Errno -3] Temporary failure in name resolution>"
+      "status": "ok",
+      "record_count": 13,
+      "url": "https://www.renci.org.sg/notices-and-tenders/"
     },
     {
       "key": "alps",
@@ -35,7 +34,7 @@
       "key": "gebiz-awards",
       "name": "GeBIZ Awards",
       "status": "ok",
-      "record_count": 5,
+      "record_count": 1,
       "url": "https://www.gebiz.gov.sg/rss/Professional_Services-CREATE_AWD_FEED.xml"
     }
   ],
